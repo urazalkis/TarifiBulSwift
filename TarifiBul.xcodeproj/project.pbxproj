@@ -7,16 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C5120BE2A28B77B00484B5A /* ColorName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5120BD2A28B77B00484B5A /* ColorName.swift */; };
+		7C5120C12A28B7F500484B5A /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 7C5120C02A28B7F500484B5A /* Alamofire */; };
+		7C5120C42A28B80600484B5A /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 7C5120C32A28B80600484B5A /* SnapKit */; };
+		7C5120C72A28B81200484B5A /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 7C5120C62A28B81200484B5A /* Kingfisher */; };
+		7C5120CB2A28BC8600484B5A /* LocaleKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5120CA2A28BC8600484B5A /* LocaleKeys.swift */; };
+		7C5120CE2A28BF0500484B5A /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7C5120CD2A28BF0500484B5A /* Localizable.strings */; };
+		7C5120D22A28BF3800484B5A /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7C5120D02A28BF3800484B5A /* Localizable.strings */; };
+		7C5120D52A28CCB400484B5A /* LanguageButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5120D42A28CCB400484B5A /* LanguageButton.swift */; };
 		7C6EB3E12A27800D00246C29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6EB3E02A27800D00246C29 /* AppDelegate.swift */; };
 		7C6EB3E32A27800D00246C29 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6EB3E22A27800D00246C29 /* SceneDelegate.swift */; };
-		7C6EB3E52A27800D00246C29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6EB3E42A27800D00246C29 /* ViewController.swift */; };
-		7C6EB3E82A27800D00246C29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C6EB3E62A27800D00246C29 /* Main.storyboard */; };
+		7C6EB3E52A27800D00246C29 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6EB3E42A27800D00246C29 /* LoginViewController.swift */; };
 		7C6EB3EB2A27800D00246C29 /* TarifiBul.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7C6EB3E92A27800D00246C29 /* TarifiBul.xcdatamodeld */; };
-		7C6EB3ED2A27800D00246C29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C6EB3EC2A27800D00246C29 /* Assets.xcassets */; };
 		7C6EB3F02A27800D00246C29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C6EB3EE2A27800D00246C29 /* LaunchScreen.storyboard */; };
 		7C6EB3FB2A27800E00246C29 /* TarifiBulTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6EB3FA2A27800E00246C29 /* TarifiBulTests.swift */; };
 		7C6EB4052A27800E00246C29 /* TarifiBulUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6EB4042A27800E00246C29 /* TarifiBulUITests.swift */; };
 		7C6EB4072A27800E00246C29 /* TarifiBulUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6EB4062A27800E00246C29 /* TarifiBulUITestsLaunchTests.swift */; };
+		7C9AFBC22A2DF38500A47F1C /* LoginRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9AFBC12A2DF38500A47F1C /* LoginRouter.swift */; };
+		7C9AFBC42A2DF4FC00A47F1C /* LoginPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9AFBC32A2DF4FC00A47F1C /* LoginPresenter.swift */; };
+		7C9AFBC72A2DF58500A47F1C /* LoginInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9AFBC62A2DF58500A47F1C /* LoginInteractor.swift */; };
+		7C9AFBCA2A2DFD5C00A47F1C /* LoginModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9AFBC92A2DFD5C00A47F1C /* LoginModel.swift */; };
+		7C9AFBCC2A2DFE4900A47F1C /* LoginResponseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9AFBCB2A2DFE4900A47F1C /* LoginResponseModel.swift */; };
+		7C9AFBCE2A2E12F400A47F1C /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9AFBCD2A2E12F400A47F1C /* NetworkManager.swift */; };
+		7CE062232A2884BA0085E8F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CE062222A2884BA0085E8F8 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,13 +50,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7C5120BD2A28B77B00484B5A /* ColorName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorName.swift; sourceTree = "<group>"; };
+		7C5120CA2A28BC8600484B5A /* LocaleKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocaleKeys.swift; sourceTree = "<group>"; };
+		7C5120CD2A28BF0500484B5A /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		7C5120D12A28BF3800484B5A /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = Localizable.strings; sourceTree = "<group>"; };
+		7C5120D42A28CCB400484B5A /* LanguageButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageButton.swift; sourceTree = "<group>"; };
 		7C6EB3DD2A27800D00246C29 /* TarifiBul.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TarifiBul.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C6EB3E02A27800D00246C29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7C6EB3E22A27800D00246C29 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7C6EB3E42A27800D00246C29 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7C6EB3E72A27800D00246C29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7C6EB3E42A27800D00246C29 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		7C6EB3EA2A27800D00246C29 /* TarifiBul.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TarifiBul.xcdatamodel; sourceTree = "<group>"; };
-		7C6EB3EC2A27800D00246C29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C6EB3EF2A27800D00246C29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C6EB3F12A27800D00246C29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C6EB3F62A27800E00246C29 /* TarifiBulTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TarifiBulTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,6 +67,13 @@
 		7C6EB4002A27800E00246C29 /* TarifiBulUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TarifiBulUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C6EB4042A27800E00246C29 /* TarifiBulUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarifiBulUITests.swift; sourceTree = "<group>"; };
 		7C6EB4062A27800E00246C29 /* TarifiBulUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarifiBulUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7C9AFBC12A2DF38500A47F1C /* LoginRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginRouter.swift; sourceTree = "<group>"; };
+		7C9AFBC32A2DF4FC00A47F1C /* LoginPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPresenter.swift; sourceTree = "<group>"; };
+		7C9AFBC62A2DF58500A47F1C /* LoginInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginInteractor.swift; sourceTree = "<group>"; };
+		7C9AFBC92A2DFD5C00A47F1C /* LoginModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginModel.swift; sourceTree = "<group>"; };
+		7C9AFBCB2A2DFE4900A47F1C /* LoginResponseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginResponseModel.swift; sourceTree = "<group>"; };
+		7C9AFBCD2A2E12F400A47F1C /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		7CE062222A2884BA0085E8F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +81,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C5120C72A28B81200484B5A /* Kingfisher in Frameworks */,
+				7C5120C12A28B7F500484B5A /* Alamofire in Frameworks */,
+				7C5120C42A28B80600484B5A /* SnapKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +104,106 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7C5120B42A28B70600484B5A /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				7C5120B62A28B73200484B5A /* Network */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		7C5120B52A28B71A00484B5A /* Product */ = {
+			isa = PBXGroup;
+			children = (
+				7C5120C92A28BBD400484B5A /* UIElement */,
+				7C5120B92A28B74E00484B5A /* Utils */,
+			);
+			path = Product;
+			sourceTree = "<group>";
+		};
+		7C5120B62A28B73200484B5A /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				7C9AFBCD2A2E12F400A47F1C /* NetworkManager.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		7C5120B92A28B74E00484B5A /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				7C5120BA2A28B76A00484B5A /* Enum */,
+				7C5120BB2A28B76F00484B5A /* Extension */,
+				7C5120BC2A28B77300484B5A /* Locale */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		7C5120BA2A28B76A00484B5A /* Enum */ = {
+			isa = PBXGroup;
+			children = (
+				7C5120BD2A28B77B00484B5A /* ColorName.swift */,
+			);
+			path = Enum;
+			sourceTree = "<group>";
+		};
+		7C5120BB2A28B76F00484B5A /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		7C5120BC2A28B77300484B5A /* Locale */ = {
+			isa = PBXGroup;
+			children = (
+				7C5120CF2A28BF0A00484B5A /* tr.lproj */,
+				7C5120CC2A28BED900484B5A /* en.lproj */,
+				7C5120CA2A28BC8600484B5A /* LocaleKeys.swift */,
+			);
+			path = Locale;
+			sourceTree = "<group>";
+		};
+		7C5120C82A28B95A00484B5A /* View */ = {
+			isa = PBXGroup;
+			children = (
+				7C6EB3E42A27800D00246C29 /* LoginViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		7C5120C92A28BBD400484B5A /* UIElement */ = {
+			isa = PBXGroup;
+			children = (
+				7C5120D32A28CC9600484B5A /* Button */,
+			);
+			path = UIElement;
+			sourceTree = "<group>";
+		};
+		7C5120CC2A28BED900484B5A /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				7C5120CD2A28BF0500484B5A /* Localizable.strings */,
+			);
+			path = en.lproj;
+			sourceTree = "<group>";
+		};
+		7C5120CF2A28BF0A00484B5A /* tr.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				7C5120D02A28BF3800484B5A /* Localizable.strings */,
+			);
+			path = tr.lproj;
+			sourceTree = "<group>";
+		};
+		7C5120D32A28CC9600484B5A /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				7C5120D42A28CCB400484B5A /* LanguageButton.swift */,
+			);
+			path = Button;
+			sourceTree = "<group>";
+		};
 		7C6EB3D42A27800D00246C29 = {
 			isa = PBXGroup;
 			children = (
@@ -101,14 +227,12 @@
 		7C6EB3DF2A27800D00246C29 /* TarifiBul */ = {
 			isa = PBXGroup;
 			children = (
-				7C6EB3E02A27800D00246C29 /* AppDelegate.swift */,
-				7C6EB3E22A27800D00246C29 /* SceneDelegate.swift */,
-				7C6EB3E42A27800D00246C29 /* ViewController.swift */,
-				7C6EB3E62A27800D00246C29 /* Main.storyboard */,
-				7C6EB3EC2A27800D00246C29 /* Assets.xcassets */,
-				7C6EB3EE2A27800D00246C29 /* LaunchScreen.storyboard */,
-				7C6EB3F12A27800D00246C29 /* Info.plist */,
+				7C6EB4132A27802B00246C29 /* App */,
+				7C5120B42A28B70600484B5A /* Core */,
+				7C6EB41A2A27828F00246C29 /* Feature */,
+				7C5120B52A28B71A00484B5A /* Product */,
 				7C6EB3E92A27800D00246C29 /* TarifiBul.xcdatamodeld */,
+				7CE062222A2884BA0085E8F8 /* Assets.xcassets */,
 			);
 			path = TarifiBul;
 			sourceTree = "<group>";
@@ -130,6 +254,86 @@
 			path = TarifiBulUITests;
 			sourceTree = "<group>";
 		};
+		7C6EB4132A27802B00246C29 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				7C6EB3EE2A27800D00246C29 /* LaunchScreen.storyboard */,
+				7C6EB3F12A27800D00246C29 /* Info.plist */,
+				7C6EB3E02A27800D00246C29 /* AppDelegate.swift */,
+				7C6EB3E22A27800D00246C29 /* SceneDelegate.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		7C6EB41A2A27828F00246C29 /* Feature */ = {
+			isa = PBXGroup;
+			children = (
+				7CE062192A2871CD0085E8F8 /* Authentication */,
+			);
+			path = Feature;
+			sourceTree = "<group>";
+		};
+		7C9AFBBD2A2DF32800A47F1C /* Interactor */ = {
+			isa = PBXGroup;
+			children = (
+				7C9AFBC62A2DF58500A47F1C /* LoginInteractor.swift */,
+			);
+			path = Interactor;
+			sourceTree = "<group>";
+		};
+		7C9AFBBE2A2DF33200A47F1C /* Presenter */ = {
+			isa = PBXGroup;
+			children = (
+				7C9AFBC32A2DF4FC00A47F1C /* LoginPresenter.swift */,
+			);
+			path = Presenter;
+			sourceTree = "<group>";
+		};
+		7C9AFBBF2A2DF33700A47F1C /* Entity */ = {
+			isa = PBXGroup;
+			children = (
+				7C9AFBC82A2DFD4200A47F1C /* Login */,
+			);
+			path = Entity;
+			sourceTree = "<group>";
+		};
+		7C9AFBC02A2DF34500A47F1C /* Router */ = {
+			isa = PBXGroup;
+			children = (
+				7C9AFBC12A2DF38500A47F1C /* LoginRouter.swift */,
+			);
+			path = Router;
+			sourceTree = "<group>";
+		};
+		7C9AFBC82A2DFD4200A47F1C /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				7C9AFBC92A2DFD5C00A47F1C /* LoginModel.swift */,
+				7C9AFBCB2A2DFE4900A47F1C /* LoginResponseModel.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		7CE062192A2871CD0085E8F8 /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+				7CE0621A2A2871E70085E8F8 /* LoginScreen */,
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		7CE0621A2A2871E70085E8F8 /* LoginScreen */ = {
+			isa = PBXGroup;
+			children = (
+				7C5120C82A28B95A00484B5A /* View */,
+				7C9AFBBD2A2DF32800A47F1C /* Interactor */,
+				7C9AFBBE2A2DF33200A47F1C /* Presenter */,
+				7C9AFBBF2A2DF33700A47F1C /* Entity */,
+				7C9AFBC02A2DF34500A47F1C /* Router */,
+			);
+			path = LoginScreen;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -146,6 +350,11 @@
 			dependencies = (
 			);
 			name = TarifiBul;
+			packageProductDependencies = (
+				7C5120C02A28B7F500484B5A /* Alamofire */,
+				7C5120C32A28B80600484B5A /* SnapKit */,
+				7C5120C62A28B81200484B5A /* Kingfisher */,
+			);
 			productName = TarifiBul;
 			productReference = 7C6EB3DD2A27800D00246C29 /* TarifiBul.app */;
 			productType = "com.apple.product-type.application";
@@ -216,8 +425,14 @@
 			knownRegions = (
 				en,
 				Base,
+				tr,
 			);
 			mainGroup = 7C6EB3D42A27800D00246C29;
+			packageReferences = (
+				7C5120BF2A28B7F500484B5A /* XCRemoteSwiftPackageReference "Alamofire" */,
+				7C5120C22A28B80600484B5A /* XCRemoteSwiftPackageReference "SnapKit" */,
+				7C5120C52A28B81200484B5A /* XCRemoteSwiftPackageReference "Kingfisher" */,
+			);
 			productRefGroup = 7C6EB3DE2A27800D00246C29 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -235,8 +450,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C6EB3F02A27800D00246C29 /* LaunchScreen.storyboard in Resources */,
-				7C6EB3ED2A27800D00246C29 /* Assets.xcassets in Resources */,
-				7C6EB3E82A27800D00246C29 /* Main.storyboard in Resources */,
+				7C5120D22A28BF3800484B5A /* Localizable.strings in Resources */,
+				7C5120CE2A28BF0500484B5A /* Localizable.strings in Resources */,
+				7CE062232A2884BA0085E8F8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,10 +477,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C5120BE2A28B77B00484B5A /* ColorName.swift in Sources */,
+				7C9AFBCA2A2DFD5C00A47F1C /* LoginModel.swift in Sources */,
+				7C9AFBC72A2DF58500A47F1C /* LoginInteractor.swift in Sources */,
+				7C9AFBCE2A2E12F400A47F1C /* NetworkManager.swift in Sources */,
+				7C9AFBCC2A2DFE4900A47F1C /* LoginResponseModel.swift in Sources */,
 				7C6EB3EB2A27800D00246C29 /* TarifiBul.xcdatamodeld in Sources */,
-				7C6EB3E52A27800D00246C29 /* ViewController.swift in Sources */,
+				7C6EB3E52A27800D00246C29 /* LoginViewController.swift in Sources */,
+				7C9AFBC42A2DF4FC00A47F1C /* LoginPresenter.swift in Sources */,
 				7C6EB3E12A27800D00246C29 /* AppDelegate.swift in Sources */,
+				7C9AFBC22A2DF38500A47F1C /* LoginRouter.swift in Sources */,
 				7C6EB3E32A27800D00246C29 /* SceneDelegate.swift in Sources */,
+				7C5120CB2A28BC8600484B5A /* LocaleKeys.swift in Sources */,
+				7C5120D52A28CCB400484B5A /* LanguageButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,12 +526,12 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		7C6EB3E62A27800D00246C29 /* Main.storyboard */ = {
+		7C5120D02A28BF3800484B5A /* Localizable.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7C6EB3E72A27800D00246C29 /* Base */,
+				7C5120D12A28BF3800484B5A /* tr */,
 			);
-			name = Main.storyboard;
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 		7C6EB3EE2A27800D00246C29 /* LaunchScreen.storyboard */ = {
@@ -443,10 +668,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = RR848T8KH2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TarifiBul/Info.plist;
+				INFOPLIST_FILE = TarifiBul/App/info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -471,10 +695,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = RR848T8KH2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = TarifiBul/Info.plist;
+				INFOPLIST_FILE = TarifiBul/App/info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -606,6 +829,51 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		7C5120BF2A28B7F500484B5A /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
+		7C5120C22A28B80600484B5A /* XCRemoteSwiftPackageReference "SnapKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SnapKit/SnapKit.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
+		7C5120C52A28B81200484B5A /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		7C5120C02A28B7F500484B5A /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7C5120BF2A28B7F500484B5A /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		7C5120C32A28B80600484B5A /* SnapKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7C5120C22A28B80600484B5A /* XCRemoteSwiftPackageReference "SnapKit" */;
+			productName = SnapKit;
+		};
+		7C5120C62A28B81200484B5A /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7C5120C52A28B81200484B5A /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		7C6EB3E92A27800D00246C29 /* TarifiBul.xcdatamodeld */ = {

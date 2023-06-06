@@ -1,0 +1,127 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "5ea4974c90d4d2411a1bb103e1ec289934bbea7c609b1f520e735b961e3b8e79"
+build_start_time: [1685969479, 582889000]
+build_end_time: [1685969480, 444431000]
+inputs:
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Cache/CacheSerializer.swift"
+  : [1685618831, 932331514]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Cache/DiskStorage.swift"
+  : [1685618831, 932467600]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift"
+  : [1685618831, 932576769]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Cache/ImageCache.swift"
+  : [1685618831, 932735772]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Cache/MemoryStorage.swift"
+  : [1685618831, 932857400]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Cache/Storage.swift"
+  : [1685618831, 932987652]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift"
+  : [1685618831, 933166990]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift"
+  : [1685618831, 933292784]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift"
+  : [1685618831, 933391952]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift"
+  : [1685618831, 933476538]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift"
+  : [1685618831, 933564956]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift"
+  : [1685618831, 933655416]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift"
+  : [1685618831, 933747543]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift"
+  : [1685618831, 933925213]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift"
+  : [1685618831, 934030632]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Resource.swift"
+  : [1685618831, 934123218]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Source.swift"
+  : [1685618831, 934196094]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/General/KF.swift"
+  : [1685618831, 934390473]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/General/KFOptionsSetter.swift"
+  : [1685618831, 934547351]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/General/Kingfisher.swift"
+  : [1685618831, 934674521]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherError.swift"
+  : [1685618831, 934801357]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherManager.swift"
+  : [1685618831, 935016819]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherOptionsInfo.swift"
+  : [1685618831, 935184240]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Image/Filter.swift"
+  : [1685618831, 935326159]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Image/GIFAnimatedImage.swift"
+  : [1685618831, 935422161]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Image/GraphicsContext.swift"
+  : [1685618831, 935498329]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Image/Image.swift"
+  : [1685618831, 935608457]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageDrawing.swift"
+  : [1685618831, 935734417]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageFormat.swift"
+  : [1685618831, 935824878]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProcessor.swift"
+  : [1685618831, 935986756]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift"
+  : [1685618831, 936128926]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift"
+  : [1685618831, 936236761]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift"
+  : [1685618831, 936321721]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift"
+  : [1685618831, 936598352]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift"
+  : [1685618831, 936688396]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift"
+  : [1685618831, 936805440]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift"
+  : [1685618831, 936896150]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageModifier.swift"
+  : [1685618831, 937007694]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImagePrefetcher.swift"
+  : [1685618831, 937153155]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift"
+  : [1685618831, 937247657]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/RequestModifier.swift"
+  : [1685618831, 937332659]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/RetryStrategy.swift"
+  : [1685618831, 937425994]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift"
+  : [1685618831, 937558580]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift"
+  : [1685618831, 937643040]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift"
+  : [1685618831, 937766251]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageContext.swift"
+  : [1685618831, 937851420]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift"
+  : [1685618831, 937951672]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImage.swift"
+  : [1685618831, 938060799]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageOptions.swift"
+  : [1685618831, 938154259]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift"
+  : [1685618831, 938232428]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift"
+  : [1685618831, 938314388]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Utility/Box.swift"
+  : [1685618831, 938587435]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Utility/CallbackQueue.swift"
+  : [1685618831, 938678062]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Utility/Delegate.swift"
+  : [1685618831, 938813106]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift"
+  : [1685618831, 938902608]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift"
+  : [1685618831, 938992277]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift"
+  : [1685618831, 939122613]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift"
+  : [1685618831, 939207614]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift"
+  : [1685618831, 939327242]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift"
+  : [1685618831, 939518037]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift"
+  : [1685618831, 939623706]

@@ -1,0 +1,13 @@
+
+/*
+  Localizable.strings
+  TarifiBul
+
+  Created by Uraz Alkış on 1.06.2023.
+  
+*/
+
+"recipeIngredients" = "Ev malzemeleriniz için tarifler";
+"later" = "Daha Sonra";
+"login" = "Giriş Yap";
+"createNewAccount" = "Yeni hesap oluştur";

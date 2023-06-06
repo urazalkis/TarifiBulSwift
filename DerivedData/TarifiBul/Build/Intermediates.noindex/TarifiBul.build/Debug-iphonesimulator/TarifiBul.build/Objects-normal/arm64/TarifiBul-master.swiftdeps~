@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "70231f162ef0168b1f19ede4c3263a2b1d696ce444bc0179cb56022eccba63b3"
+build_start_time: [1685969491, 548212000]
+build_end_time: [1685969491, 606992000]
+inputs:
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/App/AppDelegate.swift": !private [1685538957, 102099929]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/App/SceneDelegate.swift": !private [1685539152, 471384744]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Entity/Login/LoginModel.swift": !private [1685964518, 949719981]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Entity/Login/LoginResponseModel.swift"
+  : !private [1685964518, 942677360]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Interactor/LoginInteractor.swift"
+  : !private [1685969474, 858794604]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Presenter/LoginPresenter.swift": !private [1685963557, 331926095]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Router/LoginRouter.swift": !private [1685962405, 857586179]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/View/LoginViewController.swift": !private [1685962405, 864724783]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/UIElement/Button/LanguageButton.swift": !private [1685630946, 618212791]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/Utils/Enum/ColorName.swift": !private [1685618424, 857446173]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/Utils/Locale/LocaleKeys.swift": !private [1685621419, 878301892]

@@ -1,0 +1,79 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "510cdafac6dcc592883e3aa3eebf99802cff775044abda640ebe26b43656c600"
+build_start_time: [1685969479, 582495000]
+build_end_time: [1685969479, 997341000]
+inputs:
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/Constraint.swift"
+  : [1685618819, 636247972]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintAttributes.swift"
+  : [1685618819, 636354890]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintConfig.swift"
+  : [1685618819, 636439642]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintConstantTarget.swift"
+  : [1685618819, 636535019]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintDSL.swift"
+  : [1685618819, 636624563]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintDescription.swift"
+  : [1685618819, 636712314]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift"
+  : [1685618819, 636787358]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintDirectionalInsets.swift"
+  : [1685618819, 636856567]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsetTarget.swift"
+  : [1685618819, 636915194]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintInsets.swift"
+  : [1685618819, 636994570]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintItem.swift"
+  : [1685618819, 637077030]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift"
+  : [1685618819, 637142990]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuide.swift"
+  : [1685618819, 637215908]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutGuideDSL.swift"
+  : [1685618819, 637394120]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupport.swift"
+  : [1685618819, 637456872]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintLayoutSupportDSL.swift"
+  : [1685618819, 637507581]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintMaker.swift"
+  : [1685618819, 637574457]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerEditable.swift"
+  : [1685618819, 637652459]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerExtendable.swift"
+  : [1685618819, 637711877]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerFinalizable.swift"
+  : [1685618819, 637776211]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerPrioritizable.swift"
+  : [1685618819, 637852421]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift"
+  : [1685618819, 637952673]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintMakerRelatable.swift"
+  : [1685618819, 638070634]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintMultiplierTarget.swift"
+  : [1685618819, 638134385]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintOffsetTarget.swift"
+  : [1685618819, 638196887]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriority.swift"
+  : [1685618819, 638251180]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintPriorityTarget.swift"
+  : [1685618819, 638305639]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelatableTarget.swift"
+  : [1685618819, 638355848]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintRelation.swift"
+  : [1685618819, 638419933]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintView+Extensions.swift"
+  : [1685618819, 638510060]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintView.swift"
+  : [1685618819, 638568186]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/ConstraintViewDSL.swift"
+  : [1685618819, 638647521]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/Debugging.swift"
+  : [1685618819, 638723814]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraint.swift"
+  : [1685618819, 638805941]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/LayoutConstraintItem.swift"
+  : [1685618819, 638897776]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/Typealiases.swift"
+  : [1685618819, 638955277]
+  ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/SourcePackages/checkouts/SnapKit/Sources/UILayoutSupport+Extensions.swift"
+  : [1685618819, 639016695]
