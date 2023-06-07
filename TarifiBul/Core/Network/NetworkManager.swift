@@ -20,16 +20,11 @@ protocol INetworkManager {
                            onError:@escaping (Error)->())
     func post<T: Codable, R: Encodable>(path: NetworkPath,model: R,onSuccess:@escaping(T)->(),
                            onError:@escaping (Error)->())
-    //var config: NetworkConfig { get set }
 }
 
  final class NetworkManager: INetworkManager {
     static let shared: INetworkManager = NetworkManager()
-    //internal var config: NetworkConfig
 
-   /* init(config: NetworkConfig) {
-        self.config = config
-    }*/
      private init(){
          
      }
@@ -63,10 +58,10 @@ protocol INetworkManager {
              return onError(NetworkError.ParsingFailed())
          }
          let parameters = convertToDictionary(text: dataString)
-         print(parameters?.keys.first)
-         print(parameters?.values.first)
-         AF.request("\(NetworkPath.baseUrl)\(path.rawValue)", method: .post,parameters: parameters)
+   
+         AF.request("\(NetworkPath.baseUrl)\(path.rawValue)", method: .post,parameters: parameters,encoding: JSONEncoding.default)
              .validate().responseDecodable(of: T.self) { response in
+                 print(response.result)
                  if let model = response.value {
                                         onSuccess(model)
                                     } else if let error = response.error {

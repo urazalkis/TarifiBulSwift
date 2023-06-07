@@ -1,19 +1,22 @@
 version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
 options: "70231f162ef0168b1f19ede4c3263a2b1d696ce444bc0179cb56022eccba63b3"
-build_start_time: [1686054457, 845023000]
-build_end_time: [1686054458, 302402000]
+build_start_time: [1686147204, 224855000]
+build_end_time: [1686147204, 734892000]
 inputs:
   "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/App/AppDelegate.swift": [1685538957, 102099929]
   "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/App/SceneDelegate.swift": [1686046718, 529575389]
-  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Core/Network/NetworkManager.swift": [1686054299, 402169468]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Core/Network/NetworkManager.swift": [1686058831, 394622471]
   "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Entity/Login/LoginModel.swift": [1686054060, 773285274]
   ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Entity/Login/LoginResponseModel.swift"
   : [1686052512, 677595394]
   ? "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Interactor/LoginInteractor.swift"
-  : [1686052162, 499169228]
-  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Presenter/LoginPresenter.swift": [1686054457, 714859758]
+  : [1686123002, 103964835]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Presenter/LoginPresenter.swift": [1686123186, 800163218]
   "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Router/LoginRouter.swift": [1686046718, 541181029]
-  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/View/LoginViewController.swift": [1686052256, 221974998]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/View/LoginViewController.swift": [1686147185, 877989121]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/UIElement/Button/CircularButton.swift": [1686147203, 969269951]
   "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/UIElement/Button/LanguageButton.swift": [1685630946, 618212791]
   "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/Utils/Enum/ColorName.swift": [1685618424, 857446173]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/Utils/Enum/ImageName.swift": [1686125202, 206620588]
+  "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/Utils/Extension/UIViewExtension.swift": [1686146442, 994051995]
   "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/Utils/Locale/LocaleKeys.swift": [1685621419, 878301892]

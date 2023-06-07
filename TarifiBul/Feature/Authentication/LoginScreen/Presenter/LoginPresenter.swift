@@ -11,37 +11,29 @@ protocol ILoginPresenter {
     var router : ILoginRouter? { get set }
     var interactor : ILoginInteractor? {get set}
     var view : ILoginView? {get set}
+    func fetchLogin(userName:String, password: String)
     func interactorDidFetchLogin(result : Result<LoginResponseModel,Error>)
 }
 
 class LoginPresenter : ILoginPresenter {
+   
+    
     var router: ILoginRouter?
-    
-    var interactor: ILoginInteractor? {
-        didSet{
-            interactor?.fetchLoginResponse(userName: "urazalkis", password: "uraz12345", onSuccess: { response in
-                print(response?.success)
-                print(response?.data?.username)
-                print(response?.message)
-            }, onError: {error in  print(error.localizedDescription)})
-        }
-    }
-    
-    
-    
+    var interactor: ILoginInteractor?
     var view: ILoginView?
     
-    func interactorDidFetchLogin(result : Result<LoginResponseModel,Error>) {
+    func fetchLogin(userName:String, password: String){
+        interactor?.fetchLoginResponse(userName: userName, password: password)
+        
+    }
+    func interactorDidFetchLogin(result: Result<LoginResponseModel, Error>) {
         switch result {
         case .success(let model):
-            view?.update(with: model)
+            view?.showLoginResponse(with: model)
             
         case .failure(let error):
-            view?.update(with: error.localizedDescription)
+            view?.showLoginResponse(with: error.localizedDescription)
         }
     }
-    
-    
 }
-
   

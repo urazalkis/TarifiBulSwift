@@ -12,59 +12,151 @@ import SnapKit
 // talks to - presenter
 protocol ILoginView {
     var presenter : ILoginPresenter? {get set}
-    func update(with loginResponse : LoginResponseModel?)
-    func update(with error : String)
+    func showLoginResponse(with loginResponse : LoginResponseModel?)
+    func showLoginResponse(with error : String)
 }
 class LoginViewController: UIViewController,ILoginView{
     var presenter: ILoginPresenter?
 
-    var mybutton : UIButton = {
-        let button = UIButton()
-        button.setTitle("Save", for: .normal)
+    let safeAreaView = UIView()
+
+    let groupImage = UIImageView(image:UIImage(named:ImageName.ingredientGroup.rawValue))
+    let recipeTextLabel = UILabel()
+    let loginButton : CircularButton = {
+        let button = CircularButton()
+        button.setTitle(LocaleKeys.login.locale, for: .normal)
         button.setTitleColor(.white, for: .normal)
-        button.backgroundColor = .systemGreen
-        button.addTarget(self, action: #selector(buttonTapped), for: .touchUpInside)
-        button.layer.cornerRadius = 10
+
+        button.addTarget(self, action: #selector(loginButtonTapped), for: .touchUpInside)
         return button
     }()
-
-    @objc func buttonTapped() {
-        // Buton tıklandığında yapılacak işlemleri buraya yazın
+    let createNewAccountButton : UIButton = {
+        let button = UIButton()
+        button.setTitle(LocaleKeys.createNewAccount.locale, for: .normal)
+        button.setTitleColor(.white, for: .normal)
+        button.addTarget(self, action: #selector(newAccountButtonTapped), for: .touchUpInside)
+        return button
+    }()
+    let laterButton : UIButton = {
+        let button = UIButton()
+        button.setTitle(LocaleKeys.later.locale, for: .normal)
+        button.setTitleColor(UIColor(named: ColorName.oriolesOrange.rawValue), for: .normal)
+        button.addTarget(self, action: #selector(newAccountButtonTapped), for: .touchUpInside)
+        return button
+    }()
+    @objc func loginButtonTapped() {
         print("merhaba")
+        presenter?.fetchLogin(userName: "urazalkis", password: "uraz12345")
     }
-    func update(with loginResponse: LoginResponseModel?) {
-       // print(loginResponse?.success)
-        //print(loginResponse?.data?.username)
+    @objc func newAccountButtonTapped() {
+        print("merhaba")
+        presenter?.fetchLogin(userName: "urazalkis", password: "uraz12345")
     }
     
-    func update(with error: String) {
+    func showLoginResponse(with loginResponse: LoginResponseModel?) {
+        let alertController = UIAlertController(title: "Örnek Alert", message: loginResponse?.data?.email, preferredStyle: .alert)
+                
+                let action = UIAlertAction(title: "Tamam", style: .default) { (action:UIAlertAction) in
+                    // Tamam butonuna basıldığında yapılacak işlemler
+                    print("Tamam butonuna basıldı.")
+                }
+                
+                alertController.addAction(action)
+                
+                present(alertController, animated: true, completion: nil)
+    }
+    
+    func showLoginResponse(with error: String) {
         
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        setBackgroundColor()
-        view.backgroundColor = .white
-        addSubviews()
-        setButtonConstrait()
+       configure()
     
         
     }
   
 }
+
 extension LoginViewController{
-    func addSubviews(){
-        view.addSubview(mybutton)
+    func configure(){
+        setupBackgroundColor()
+        addSubviews()
+        setupAll()
     }
-    
-    func setButtonConstrait() {
-        mybutton.snp.makeConstraints { make in
-            make.center.equalToSuperview()
-            make.width.equalTo(200)
+    func addSubviews(){
+        view.addSubview(safeAreaView)
+        view.addSubview(groupImage)
+        view.addSubview(recipeTextLabel)
+        view.addSubview(loginButton)
+        view.addSubview(createNewAccountButton)
+        view.addSubview(laterButton)
+    }
+    func setupAll () {
+        setupSafeAreaView()
+        setupGroupImage()
+        setupRecipeTextLabel()
+        setupLoginButton()
+        setupCreateAccountButton()
+        setupLaterButton()
+    }
+    func setupSafeAreaView(){
+        //safeAreaView.backgroundColor = .green
+        safeAreaView.snp.makeConstraints { make in
+        //make.edges.equalTo(view.safeAreaLayoutGuide)
+            safeAreaView.paddingPage()
+            make.top.equalTo(view.safeAreaLayoutGuide.snp.topMargin) // Safe area üst kenarına hizala
+            make.bottom.equalTo(view.safeAreaLayoutGuide.snp.bottomMargin)
+            
+        }
+        
+    }
+    func setupGroupImage(){
+        groupImage.contentMode = .scaleAspectFit
+        groupImage.snp.makeConstraints { make in
+            make.centerX.equalTo(safeAreaView)
+            make.centerY.equalTo(safeAreaView).offset(-100)
+            make.width.equalTo(safeAreaView).multipliedBy(0.90)
+            make.height.equalTo(groupImage.snp.width)
+        }
+    }
+    func setupRecipeTextLabel() {
+        recipeTextLabel.text = LocaleKeys.recipeIngredients.locale
+        recipeTextLabel.numberOfLines = 0
+        recipeTextLabel.lineBreakMode = .byTruncatingTail  // üç nokta şeklinde belirtir eğer aşarsa. yukarısını 0 yaptığım için büyük ihtimal burası çalışmaz. 0 yapınca sınırsız oluyor
+        recipeTextLabel.textColor = .white
+        recipeTextLabel.font = recipeTextLabel.font.withSize(24)
+        recipeTextLabel.snp.makeConstraints { make in
+            make.centerX.equalTo(safeAreaView)
+            make.top.equalTo(groupImage.snp.bottom).offset(50)
+
+        }
+    }
+    func setupLoginButton() {
+        loginButton.snp.makeConstraints { make in
+            make.centerX.equalTo(safeAreaView)
+            make.top.equalTo(recipeTextLabel.snp.bottom).offset(50)
+            make.width.equalTo(safeAreaView)
             make.height.equalTo(50)
         }
     }
-    func setBackgroundColor(){
+    func setupCreateAccountButton() {
+        createNewAccountButton.snp.makeConstraints { make in
+            make.centerX.equalTo(safeAreaView)
+            make.top.equalTo(loginButton.snp.bottom).offset(50)
+            
+        }
+    }
+    func setupLaterButton() {
+        laterButton.snp.makeConstraints { make in
+            
+            make.top.equalTo(safeAreaView)
+            make.trailing.equalTo(safeAreaView)
+            
+        }
+    }
+    func setupBackgroundColor(){
         
         let gradientView = UIView(frame: CGRect(x: 0, y: 0, width: view.bounds.width, height: view.bounds.height))
         

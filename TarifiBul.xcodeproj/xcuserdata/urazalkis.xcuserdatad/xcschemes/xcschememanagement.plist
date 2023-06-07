@@ -28,7 +28,25 @@
 		<key>TarifiBul.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7C6EB3DC2A27800D00246C29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7C6EB3F52A27800E00246C29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7C6EB3FF2A27800E00246C29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
