@@ -1,0 +1,15 @@
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/View/SignInViewController.swift":
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SignInViewController.o"
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SignInViewController.d"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SignInViewController.swiftdeps"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SignInViewController.dia"
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/Utils/Extension/UIViewExtension.swift":
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/UIViewExtension.o"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/UIViewExtension.dia"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/UIViewExtension.swiftdeps"
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/UIViewExtension.d"
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/UIElement/Alert/SuccessAlert.swift":
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SuccessAlert.o"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SuccessAlert.dia"
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SuccessAlert.d"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SuccessAlert.swiftdeps"

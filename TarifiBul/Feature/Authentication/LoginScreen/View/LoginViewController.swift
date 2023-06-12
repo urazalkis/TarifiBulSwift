@@ -12,8 +12,7 @@ import SnapKit
 // talks to - presenter
 protocol ILoginView {
     var presenter : ILoginPresenter? {get set}
-    func showLoginResponse(with loginResponse : LoginResponseModel?)
-    func showLoginResponse(with error : String)
+
 }
 class LoginViewController: UIViewController,ILoginView{
     var presenter: ILoginPresenter?
@@ -22,7 +21,7 @@ class LoginViewController: UIViewController,ILoginView{
 
     let groupImage = UIImageView(image:UIImage(named:ImageName.ingredientGroup.rawValue))
     let recipeTextLabel = UILabel()
-    let loginButton : CircularButton = {
+    private lazy var loginButton : CircularButton = {
         let button = CircularButton()
         button.setTitle(LocaleKeys.login.locale, for: .normal)
         button.setTitleColor(.white, for: .normal)
@@ -30,14 +29,14 @@ class LoginViewController: UIViewController,ILoginView{
         button.addTarget(self, action: #selector(loginButtonTapped), for: .touchUpInside)
         return button
     }()
-    let createNewAccountButton : UIButton = {
+    private lazy var createNewAccountButton : UIButton = {
         let button = UIButton()
         button.setTitle(LocaleKeys.createNewAccount.locale, for: .normal)
         button.setTitleColor(.white, for: .normal)
         button.addTarget(self, action: #selector(newAccountButtonTapped), for: .touchUpInside)
         return button
     }()
-    let laterButton : UIButton = {
+    private lazy var laterButton : UIButton = {
         let button = UIButton()
         button.setTitle(LocaleKeys.later.locale, for: .normal)
         button.setTitleColor(UIColor(named: ColorName.oriolesOrange.rawValue), for: .normal)
@@ -46,34 +45,19 @@ class LoginViewController: UIViewController,ILoginView{
     }()
     @objc func loginButtonTapped() {
         print("merhaba")
-        presenter?.fetchLogin(userName: "urazalkis", password: "uraz12345")
+        print(presenter)
+       // presenter?.fetchLogin(userName: "urazalkis", password: "uraz12345")
+        presenter?.router?.navigateToSignIn()
     }
     @objc func newAccountButtonTapped() {
         print("merhaba")
-        presenter?.fetchLogin(userName: "urazalkis", password: "uraz12345")
+        //presenter?.fetchLogin(userName: "urazalkis", password: "uraz12345")
     }
     
-    func showLoginResponse(with loginResponse: LoginResponseModel?) {
-        let alertController = UIAlertController(title: "Örnek Alert", message: loginResponse?.data?.email, preferredStyle: .alert)
-                
-                let action = UIAlertAction(title: "Tamam", style: .default) { (action:UIAlertAction) in
-                    // Tamam butonuna basıldığında yapılacak işlemler
-                    print("Tamam butonuna basıldı.")
-                }
-                
-                alertController.addAction(action)
-                
-                present(alertController, animated: true, completion: nil)
-    }
-    
-    func showLoginResponse(with error: String) {
-        
-    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
        configure()
-    
         
     }
   

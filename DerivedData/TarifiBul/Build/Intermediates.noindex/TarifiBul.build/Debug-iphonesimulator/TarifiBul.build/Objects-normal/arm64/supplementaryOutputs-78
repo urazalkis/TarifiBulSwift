@@ -1,0 +1,15 @@
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/UIElement/Alert/ErrorAlert.swift":
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ErrorAlert.o"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ErrorAlert.swiftdeps"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ErrorAlert.dia"
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ErrorAlert.d"
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/View/Presenter/LoginPresenter.swift":
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginPresenter.d"
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginPresenter.o"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginPresenter.dia"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginPresenter.swiftdeps"
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/View/LoginViewController.swift":
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginViewController.swiftdeps"
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginViewController.o"
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginViewController.d"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginViewController.dia"

@@ -23,11 +23,10 @@ class CircularButton: UIButton {
     }
     
     private func setupButton() {
-        // Butonun görünümünü özelleştir
         setTitleColor(.white, for: .normal)
         frame.size = CGSize(width:200 , height: 60)
         backgroundColor = UIColor(named: ColorName.oriolesOrange.rawValue)
-        layer.borderWidth = 1
+        layer.borderWidth = 0
         layer.cornerRadius = 15
         setTitleColor(.white, for: .normal)
     }

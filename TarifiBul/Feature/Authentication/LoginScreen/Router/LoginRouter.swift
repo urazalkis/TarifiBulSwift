@@ -12,9 +12,10 @@ typealias LoginEntryPoint = ILoginView & UIViewController
 protocol ILoginRouter {
     var entry : LoginEntryPoint? {get}
     static func startExecution() -> ILoginRouter
+    func navigateToSignIn()
 }
 
-class LoginRouter : ILoginRouter {
+final class LoginRouter : ILoginRouter {
     var entry : LoginEntryPoint?
     static func startExecution() -> ILoginRouter {
         let router = LoginRouter()
@@ -29,9 +30,21 @@ class LoginRouter : ILoginRouter {
         presenter.interactor = interactor
         
         interactor.presenter = presenter
-        
+    
         router.entry =  view as? LoginEntryPoint
         return router
     }
+    func navigateToSignIn() {
+        let routerInstance = SignInRouter.startExecution()
+        if let signInVC = routerInstance.entry{
+            if let sheet = signInVC.sheetPresentationController {
+                sheet.detents = [.medium(),.large()]
+            }
+            if let entry = entry {
+                entry.present(signInVC,animated: true,completion: nil)
+            }
+
+        }
     
+    }
 }

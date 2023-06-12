@@ -8,4 +8,22 @@
 "recipeIngredients" = "Recipes for your have home ingredients";
 "later" = "Later";
 "login" = "Login";
+"signIn" = "SignIn";
 "createNewAccount" = "Create New Account";
+"userName" = "User Name";
+"userNameOrEmail" = "User name or Email";
+"password" = "Password";
+"emailAddress" = "Email Address";
+"sendEmail" = "Send Email";
+"forgotPassword" = "Forgot password?";
+"orContinueWith" = "or continue with";
+"loginWithGoogle" = "Login with Google";
+"loginWithFacebook" = "Login with Facebook";
+"registerWithGoogle" = "Register with Google";
+"registerWithFacebook" = "Register with Facebook";
+"dontHaveAnyAccount" = "Dont have any account?";
+"alreadyHaveAnyAccount" = "Already have any account?";
+"success" = "Success";
+"error" = "Error";
+"dontEmptyThisField" = "Dot empty this field!";
+

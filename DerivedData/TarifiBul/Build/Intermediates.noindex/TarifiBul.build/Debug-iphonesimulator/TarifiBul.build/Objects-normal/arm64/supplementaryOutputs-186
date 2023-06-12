@@ -1,0 +1,15 @@
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Core/Network/NetworkManager.swift":
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/NetworkManager.swiftdeps"
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/NetworkManager.d"
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/NetworkManager.o"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/NetworkManager.dia"
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/UIElement/TextField/StandardTextField.swift":
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/StandardTextField.d"
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/StandardTextField.o"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/StandardTextField.swiftdeps"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/StandardTextField.dia"
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Interactor/LoginInteractor.swift":
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginInteractor.o"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginInteractor.dia"
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginInteractor.d"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginInteractor.swiftdeps"

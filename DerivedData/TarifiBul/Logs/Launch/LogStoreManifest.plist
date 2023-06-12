@@ -6,10 +6,10 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>009E8FC9-CAA5-40D8-9BBE-AF9B5BF02A2F</key>
+		<key>022A9D13-D348-41E1-9764-68A1298E8D1B</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>DE8D9589-E3BE-46CF-8B06-35624D410BD9</string>
+			<string>57B1D40D-D5C2-4575-BAC4-7624C7C2CACF</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -22,7 +22,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-13-03-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_10-49-59-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -43,18 +43,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707821983.18505597</real>
+			<real>708248999.44619405</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>009E8FC9-CAA5-40D8-9BBE-AF9B5BF02A2F</string>
+			<string>022A9D13-D348-41E1-9764-68A1298E8D1B</string>
 		</dict>
-		<key>00A9173D-72CE-4139-8393-2DB9E1EB4C6F</key>
+		<key>0DCE7721-BFF5-4FEA-85CB-9B576E7FF40B</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>86C03110-6C15-4F87-854F-64403BAE821E</string>
+			<string>E3FB5FF3-6FDC-4DF9-B637-77AE2F18544E</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -67,7 +67,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-05-11-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.09_16-57-32-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -88,18 +88,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707839511.69049001</real>
+			<real>708011852.59615302</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>00A9173D-72CE-4139-8393-2DB9E1EB4C6F</string>
+			<string>0DCE7721-BFF5-4FEA-85CB-9B576E7FF40B</string>
 		</dict>
-		<key>0139B512-9EBB-4818-9066-A6281FBFD526</key>
+		<key>168878DB-DA5C-4A16-B24D-43B35D98C9E1</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7421B931-476E-4073-966C-CEEAE4A4C59E</string>
+			<string>4742A5A9-C3D5-416E-A077-82E81B22FD0D</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -112,7 +112,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-34-52-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_11-18-00-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -133,18 +133,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707834092.43731999</real>
+			<real>708250680.18287098</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>0139B512-9EBB-4818-9066-A6281FBFD526</string>
+			<string>168878DB-DA5C-4A16-B24D-43B35D98C9E1</string>
 		</dict>
-		<key>01FC710F-632A-408F-93BC-6BE23006564C</key>
+		<key>22037B83-6926-4B11-B1EA-677E8D81F567</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>46E77CED-8711-43BD-8AEA-517E51DC66A4</string>
+			<string>E0A40B3F-64EA-4F47-AF7C-56CC7CC4F447</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -157,7 +157,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-09-47-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_11-06-41-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -178,18 +178,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707828987.76728904</real>
+			<real>708250001.23345399</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>01FC710F-632A-408F-93BC-6BE23006564C</string>
+			<string>22037B83-6926-4B11-B1EA-677E8D81F567</string>
 		</dict>
-		<key>05121461-81F1-4F84-B9D4-6061D0DEEF05</key>
+		<key>2DBFE934-6B2D-456D-A99B-91C40C895555</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>931AED54-0AEC-4E5A-AEFE-466C10743C3C</string>
+			<string>57F85EBD-D285-417A-9014-6C798FB11343</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -202,7 +202,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-49-45-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_11-16-16-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -223,18 +223,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707838585.84231997</real>
+			<real>708250576.33183599</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>05121461-81F1-4F84-B9D4-6061D0DEEF05</string>
+			<string>2DBFE934-6B2D-456D-A99B-91C40C895555</string>
 		</dict>
-		<key>09628C2E-97D3-4A27-B3D5-92BB0DE59357</key>
+		<key>2E602369-AF52-447A-B292-B0A7FE31C4F6</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>E2C1276E-7426-4E94-A47E-C7AA69BDB5C0</string>
+			<string>B9216B8E-9C54-4762-BFE9-68BF52C6DF17</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -247,7 +247,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-32-39-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_10-52-29-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -268,18 +268,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707823159.254233</real>
+			<real>708249149.85894501</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>09628C2E-97D3-4A27-B3D5-92BB0DE59357</string>
+			<string>2E602369-AF52-447A-B292-B0A7FE31C4F6</string>
 		</dict>
-		<key>0B704ED9-BBDA-4105-845A-5F4122468D2F</key>
+		<key>3FCA5748-A0FA-4F94-89B7-E29CCF6B0DC0</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C0D7F6E5-655D-4708-A0BE-22BFCD883367</string>
+			<string>6281313B-306E-483F-81DD-77941B427BAD</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -292,7 +292,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-21-31-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_11-02-12-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -313,18 +313,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707818891.85623503</real>
+			<real>708249732.74160397</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>0B704ED9-BBDA-4105-845A-5F4122468D2F</string>
+			<string>3FCA5748-A0FA-4F94-89B7-E29CCF6B0DC0</string>
 		</dict>
-		<key>0C02B17A-6A75-418A-8345-F21121BF25FE</key>
+		<key>55E91304-C91E-434E-9E04-9267DAB7F1FF</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>A0658E75-6109-4A54-A149-C0D7C23A1984</string>
+			<string>1DD1514A-ADB0-4D80-A7D8-C8F6E3A8FCA3</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -337,7 +337,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-35-13-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_10-53-45-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -358,18 +358,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707834113.36291599</real>
+			<real>708249225.48365498</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>0C02B17A-6A75-418A-8345-F21121BF25FE</string>
+			<string>55E91304-C91E-434E-9E04-9267DAB7F1FF</string>
 		</dict>
-		<key>0F5A8DA9-4EE4-4F4D-A2EC-44E1848139C6</key>
+		<key>5D210B20-704E-47DF-9D17-8D84B3AF1CD5</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>6C09BD29-2E09-4EE5-AEAF-5495CE5343A5</string>
+			<string>A2279CAA-C15F-4A81-A59B-6D4F65D41A51</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -382,7 +382,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-09-40-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_10-53-30-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -403,1053 +403,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707832580.96655703</real>
+			<real>708249210.89912999</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>0F5A8DA9-4EE4-4F4D-A2EC-44E1848139C6</string>
+			<string>5D210B20-704E-47DF-9D17-8D84B3AF1CD5</string>
 		</dict>
-		<key>18EBE70D-C8E7-4C1B-8748-95A141BDC625</key>
+		<key>673EEF6F-B7C5-416B-9407-A7721BE5650F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>716EA2B5-C793-4BC3-AE98-9734E3AD3C4D</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-09-07-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707828947.12811506</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>18EBE70D-C8E7-4C1B-8748-95A141BDC625</string>
-		</dict>
-		<key>1C2AB8B2-AE80-475E-8548-DA0CAB5B92A7</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>9EE54D60-4B69-4153-8B38-60953630AE37</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-09-06-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707818146.53733301</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>1C2AB8B2-AE80-475E-8548-DA0CAB5B92A7</string>
-		</dict>
-		<key>1D5151F8-A692-4A96-ACCC-ADE565815CD3</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>78C53DD6-F198-4F69-A622-53E6339D5D3D</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-06-47-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707821607.35275304</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>1D5151F8-A692-4A96-ACCC-ADE565815CD3</string>
-		</dict>
-		<key>1E891EE2-86EA-4B56-9CF3-AA347BD8A1E9</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3E33B0D9-5D11-4AF7-9BF3-9F44CD431C00</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-28-17-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707830097.05906105</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>1E891EE2-86EA-4B56-9CF3-AA347BD8A1E9</string>
-		</dict>
-		<key>201F21FD-0DB6-46AA-96E9-7C01E657EDD3</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>AE5DDD22-B07A-4CEC-9774-630055D84F51</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-04-32-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839472.47453105</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>201F21FD-0DB6-46AA-96E9-7C01E657EDD3</string>
-		</dict>
-		<key>24DD2972-4970-4EE3-B797-167595B7631E</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>E22FF76F-7C14-47B4-A92A-263CD9457090</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-22-33-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707818953.05241704</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>24DD2972-4970-4EE3-B797-167595B7631E</string>
-		</dict>
-		<key>2525A9E6-DC17-42A0-9B3C-86C022090FB3</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>A0194FFE-BC9B-4DCB-9B61-6B281ED6C505</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-08-28-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707818108.15082896</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>2525A9E6-DC17-42A0-9B3C-86C022090FB3</string>
-		</dict>
-		<key>25848D08-06C5-43CE-BFC9-77784405E9E5</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C6857FD4-4F3A-48A8-8ACE-C3A2D363D12F</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-36-10-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707823370.016101</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>25848D08-06C5-43CE-BFC9-77784405E9E5</string>
-		</dict>
-		<key>27567E6B-024D-46CB-A764-C7593F147AD0</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>5191C804-3BD4-47A2-908E-5B43314D4201</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-51-28-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838688.139799</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>27567E6B-024D-46CB-A764-C7593F147AD0</string>
-		</dict>
-		<key>2A948EEC-BF24-42FA-BC25-99EBBF4B62A2</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>BDBFC706-CD86-4B5C-A138-78EFD39D2450</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-47-24-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838444.45139003</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>2A948EEC-BF24-42FA-BC25-99EBBF4B62A2</string>
-		</dict>
-		<key>2C036A4A-E7A4-46AD-8CF9-B17FB8570B99</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>DE716B89-1D82-414A-B3C5-4100DA84B4E9</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-28-09-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707830089.01043403</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>2C036A4A-E7A4-46AD-8CF9-B17FB8570B99</string>
-		</dict>
-		<key>2DF09C1F-F9D4-40B8-BADD-B2E24854C609</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>EE9EEB2E-0A59-4A47-9A49-D2A3B2B5ED4D</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-19-19-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707836759.34867096</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>2DF09C1F-F9D4-40B8-BADD-B2E24854C609</string>
-		</dict>
-		<key>2E66C5D5-DDDA-4D0F-9816-B56FE5F46061</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>21FE5FC1-0BD4-4676-ABA3-ECE13A90056E</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-13-07-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832787.916188</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>2E66C5D5-DDDA-4D0F-9816-B56FE5F46061</string>
-		</dict>
-		<key>2F32E61B-FA44-46C2-B3D6-AD2451CA8839</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>8AF7615D-5F6B-49C2-917C-F7328B203220</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-13-00-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832780.00576603</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>2F32E61B-FA44-46C2-B3D6-AD2451CA8839</string>
-		</dict>
-		<key>31410BE0-0DBF-41A5-BA26-7B9D4D29B158</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>72E32602-5232-48B4-81A3-6E333A7ADFC3</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-44-33-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838273.38357103</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>31410BE0-0DBF-41A5-BA26-7B9D4D29B158</string>
-		</dict>
-		<key>3381879A-B999-4D20-A8A2-17110B12BDED</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>D8750A71-473B-467D-BFE9-D99E7EB540C4</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-09-39-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707828979.56740797</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>3381879A-B999-4D20-A8A2-17110B12BDED</string>
-		</dict>
-		<key>33E684D2-EDE9-4CA8-B7B6-798D9E8F56BF</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>FE90B362-D326-4806-B484-C696981F759E</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-23-22-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707837002.241032</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>33E684D2-EDE9-4CA8-B7B6-798D9E8F56BF</string>
-		</dict>
-		<key>396F3E1B-8E2D-4974-B651-AC9AC33FAF9F</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>E18FE0A0-2365-4FC0-AAD8-EE2010CA1276</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-09-29-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832569.57224298</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>396F3E1B-8E2D-4974-B651-AC9AC33FAF9F</string>
-		</dict>
-		<key>3B9F0B58-76A5-46DA-8E76-92B515A02CC7</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>9C1F3412-FEDA-4CBC-87E3-C22FB5624034</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_13-43-28-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707827408.08817995</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>3B9F0B58-76A5-46DA-8E76-92B515A02CC7</string>
-		</dict>
-		<key>408AE20C-10F8-4107-A4E7-3FB9E99E56AC</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>4009598F-8586-4035-9361-43FA3FAB1DA7</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-07-05-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832425.48789799</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>408AE20C-10F8-4107-A4E7-3FB9E99E56AC</string>
-		</dict>
-		<key>411CF089-304A-4FCC-904E-82AE1C4BD1BB</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>820DEA59-3E5C-4616-9495-AE3C5EC47BE5</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-49-00-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838540.39393604</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>411CF089-304A-4FCC-904E-82AE1C4BD1BB</string>
-		</dict>
-		<key>457072C2-8FB0-48FD-9718-5E25E98304B5</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3681C8EE-99C9-4946-9CCA-03C44E5B0D89</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-21-22-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707836882.085549</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>457072C2-8FB0-48FD-9718-5E25E98304B5</string>
-		</dict>
-		<key>477DB2BC-865B-4E8F-9573-0E5F4DC76B2A</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>02665957-8CA7-4376-A9E0-4A01BF0C47E7</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-36-26-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707834186.12019098</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>477DB2BC-865B-4E8F-9573-0E5F4DC76B2A</string>
-		</dict>
-		<key>4A8DB54D-1B6C-48C4-9409-E2AEE56F1DDF</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F85811CC-C8D2-4623-9AC4-AB6BBD4370D9</string>
+			<string>83999DC1-3655-4005-843B-730919DBA803</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -1462,7 +427,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-00-47-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_11-17-40-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -1483,18 +448,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707832047.13560605</real>
+			<real>708250660.76436901</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>4A8DB54D-1B6C-48C4-9409-E2AEE56F1DDF</string>
+			<string>673EEF6F-B7C5-416B-9407-A7721BE5650F</string>
 		</dict>
-		<key>4B8CE8B5-932D-40AC-9B26-15B9A607E142</key>
+		<key>90AAB561-4B4D-45AE-847E-8FA27C6922E3</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>AF82E17B-2DB5-4FA5-9436-D105BCD7CB89</string>
+			<string>622AEB8E-5349-42DF-9FCC-2367A2FF9BE1</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -1507,7 +472,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_13-01-21-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_11-17-06-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -1528,18 +493,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707824881.23662901</real>
+			<real>708250626.94212699</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>4B8CE8B5-932D-40AC-9B26-15B9A607E142</string>
+			<string>90AAB561-4B4D-45AE-847E-8FA27C6922E3</string>
 		</dict>
-		<key>4C916DD8-A24B-4B2F-A9D6-1AB53A81D5A5</key>
+		<key>9F52F2B3-582A-46C0-9BE0-81C1D5E2F92F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>0BDF15F3-CBA2-482D-945B-7266F8A3417C</string>
+			<string>48F0CF2C-EEAC-4503-83EC-D84FDA53866B</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -1552,7 +517,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-38-22-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_10-55-47-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -1573,18 +538,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707823502.23385203</real>
+			<real>708249347.46349597</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>4C916DD8-A24B-4B2F-A9D6-1AB53A81D5A5</string>
+			<string>9F52F2B3-582A-46C0-9BE0-81C1D5E2F92F</string>
 		</dict>
-		<key>4D574CFE-3299-4B99-A548-6F8351B2DE95</key>
+		<key>A15CE582-4BCE-4F2C-9C0C-96DD49AFC06C</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>E01CBCD1-5B0F-45EB-A100-D84FEE82035A</string>
+			<string>FF246E04-5E4C-42C2-A6A0-5531700E6400</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -1597,7 +562,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-13-05-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_10-56-08-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -1618,18 +583,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707839985.88884401</real>
+			<real>708249368.58489203</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>4D574CFE-3299-4B99-A548-6F8351B2DE95</string>
+			<string>A15CE582-4BCE-4F2C-9C0C-96DD49AFC06C</string>
 		</dict>
-		<key>553254A3-D3B7-47EC-9617-AC69060AF75D</key>
+		<key>B357211C-0080-4B9C-8A4E-78124A137535</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>BEA54BCF-38E4-4489-A41B-5128A47D86F6</string>
+			<string>E6B2F286-BD86-4C4D-8C33-19A9A6396005</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -1642,7 +607,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-14-04-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_11-49-23-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -1663,18 +628,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707822044.00946701</real>
+			<real>708252563.28081906</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>553254A3-D3B7-47EC-9617-AC69060AF75D</string>
+			<string>B357211C-0080-4B9C-8A4E-78124A137535</string>
 		</dict>
-		<key>553BCCFD-C2A8-4678-BCCB-BD42BF8074EE</key>
+		<key>B9925180-2F75-4F16-B116-BF0672554D33</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>8543CF7A-96A0-4BAF-8432-5EDAA57D1BE4</string>
+			<string>F573AF6D-D4D9-4070-878F-FE99B7BEA8C9</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -1687,7 +652,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-11-19-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_12-13-24-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -1708,153 +673,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707839879.42837095</real>
+			<real>708254004.10591304</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>553BCCFD-C2A8-4678-BCCB-BD42BF8074EE</string>
+			<string>B9925180-2F75-4F16-B116-BF0672554D33</string>
 		</dict>
-		<key>56640AA8-871A-4C7A-AD9E-C722AA007AF6</key>
+		<key>BB429A68-A05C-4AA5-B5E6-46F97EC41479</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>22E93BAD-A48F-4817-A5B6-B5CA2A7046FB</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-40-59-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707823659.40728605</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>56640AA8-871A-4C7A-AD9E-C722AA007AF6</string>
-		</dict>
-		<key>591F503B-D3E8-4C08-B69B-96FC6FCC8006</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3484B507-EE0B-48CC-986C-B661750527FC</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-20-06-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707836806.43121004</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>591F503B-D3E8-4C08-B69B-96FC6FCC8006</string>
-		</dict>
-		<key>5E1C2A1D-33AF-450F-94F1-62C36213ED50</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>364BD269-ADE6-4786-8031-C006AEE991B7</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-54-46-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838886.70430899</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>5E1C2A1D-33AF-450F-94F1-62C36213ED50</string>
-		</dict>
-		<key>63F1CA29-EF63-411C-89B5-49EBB544EF19</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>584F2E1E-A20F-4731-B8AB-380A89F89CD7</string>
+			<string>FB2DC994-7E2B-41B9-9B52-7763CC81E42C</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -1867,7 +697,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-57-42-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_09-30-14-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -1888,18 +718,63 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707839062.16593301</real>
+			<real>708244214.65151703</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>63F1CA29-EF63-411C-89B5-49EBB544EF19</string>
+			<string>BB429A68-A05C-4AA5-B5E6-46F97EC41479</string>
 		</dict>
-		<key>66450117-217D-4C8D-917A-ABF5965C3A3A</key>
+		<key>C37D9B44-8F02-44DC-B05D-B28683287F11</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>540586B7-3429-4E8D-94A8-67EB29FE7E02</string>
+			<string>EEDCB39E-780E-43B0-A8A0-FBA3AA3E39ED</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TarifiBul-2023.06.12_11-07-03-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TarifiBul project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TarifiBul</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TarifiBul</string>
+			<key>timeStartedRecording</key>
+			<real>708250023.12266695</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TarifiBul</string>
+			<key>uniqueIdentifier</key>
+			<string>C37D9B44-8F02-44DC-B05D-B28683287F11</string>
+		</dict>
+		<key>CC640667-F408-4EDF-803E-52CDFD2E4941</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>BB81BCAB-394D-4CE6-82F4-5CBE9767C29C</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -1912,727 +787,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-29-05-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707822945.407143</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>66450117-217D-4C8D-917A-ABF5965C3A3A</string>
-		</dict>
-		<key>67BE462A-4B6E-4A9D-858C-C2ED1958039D</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>A82A1129-A5B5-4377-AD98-26DA2EE31631</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-38-58-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707819938.07317102</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>67BE462A-4B6E-4A9D-858C-C2ED1958039D</string>
-		</dict>
-		<key>6936045C-6963-4B5B-B1BD-3C3EEE3E3A92</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>EFC7D241-276B-4AFC-898C-0742474986CD</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-28-56-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707830136.25030506</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>6936045C-6963-4B5B-B1BD-3C3EEE3E3A92</string>
-		</dict>
-		<key>6BF8A607-D936-4C83-BE71-897AA1CB268B</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>5F574CDA-2983-441D-ADED-AB501F066303</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-49-55-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838595.58402395</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>6BF8A607-D936-4C83-BE71-897AA1CB268B</string>
-		</dict>
-		<key>6C766870-B923-4F97-87C1-A25556580895</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>E64C1BA3-8A0F-4857-A0A4-667F6830B7E6</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-06-58-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832418.26582003</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>6C766870-B923-4F97-87C1-A25556580895</string>
-		</dict>
-		<key>6FC4CF86-7BF3-4280-B17F-CC8BAA6D0EA6</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>65C74C0F-393F-4428-BDDF-F6E5039C710C</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-00-23-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839223.08598995</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>6FC4CF86-7BF3-4280-B17F-CC8BAA6D0EA6</string>
-		</dict>
-		<key>71872A2A-C4CB-424D-A712-44186977EDCD</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>6FF23DCC-F42C-4BCD-B279-42FE95A6D3D9</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-36-00-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707823360.36710501</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>71872A2A-C4CB-424D-A712-44186977EDCD</string>
-		</dict>
-		<key>7287C8F1-5341-4DA5-A1B2-774186432ED8</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>017F0E39-B4F0-4BB7-A300-CF9CB8B6494F</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-30-25-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707837425.73362994</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>7287C8F1-5341-4DA5-A1B2-774186432ED8</string>
-		</dict>
-		<key>7326B257-E79C-4B25-84B1-AB0C6F727D2D</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>271AC0B1-DDF7-4177-9B7F-604642550589</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-32-33-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707830353.01309896</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>7326B257-E79C-4B25-84B1-AB0C6F727D2D</string>
-		</dict>
-		<key>74B8878D-D221-4B3C-A3D4-BA1573FED9BF</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>05309586-DD12-4986-80A6-636C3E14908C</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-23-55-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707833435.55856597</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>74B8878D-D221-4B3C-A3D4-BA1573FED9BF</string>
-		</dict>
-		<key>759E8F69-2B1B-4CFA-83E8-067B37C21341</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>69FE6FC0-984A-4CC5-8EA1-E720B70B07D6</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-11-13-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839873.70462894</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>759E8F69-2B1B-4CFA-83E8-067B37C21341</string>
-		</dict>
-		<key>77729955-09E7-4A70-A3C2-3B75E9C2F2EB</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>14AF6C1B-413A-48B9-9C23-49599FCFF7E7</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-45-12-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838312.93574703</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>77729955-09E7-4A70-A3C2-3B75E9C2F2EB</string>
-		</dict>
-		<key>778899A6-5156-488B-8DEC-ACE50748DB1C</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>58252E78-E4AF-47A2-82A4-F1C7DEBAC6E4</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-21-47-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707818907.99926901</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>778899A6-5156-488B-8DEC-ACE50748DB1C</string>
-		</dict>
-		<key>7B04BE22-D20C-4CA0-B16E-70530E5016EC</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>ABE60EF8-F9E4-45C4-81CF-70A6DD00DD7D</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-09-21-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707818161.19603395</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>7B04BE22-D20C-4CA0-B16E-70530E5016EC</string>
-		</dict>
-		<key>7D7DC89F-3D33-46FC-85BE-2416F4D2C169</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>33BFCAD5-B35B-4B1A-90A4-DF6729B9C247</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-23-38-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707837018.83136106</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>7D7DC89F-3D33-46FC-85BE-2416F4D2C169</string>
-		</dict>
-		<key>7E243C74-5E1F-4E0E-9CBC-3C3BF37A5370</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>1326EEA4-3C48-4985-998C-78EA0C0C5E1B</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-01-06-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832066.25044501</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>7E243C74-5E1F-4E0E-9CBC-3C3BF37A5370</string>
-		</dict>
-		<key>816F7DC3-8F53-4EDE-B266-249C32351FE0</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>63AE1057-8864-49CD-810F-07CCA053DACE</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-18-51-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_11-11-41-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -2653,18 +808,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707833131.64953697</real>
+			<real>708250301.12852097</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>816F7DC3-8F53-4EDE-B266-249C32351FE0</string>
+			<string>CC640667-F408-4EDF-803E-52CDFD2E4941</string>
 		</dict>
-		<key>8225F84E-8A35-4EB3-AEED-97059949E4DC</key>
+		<key>D0196EBA-501E-4919-8F31-7B1CBA33D842</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>360BE860-B5F6-4226-A209-7926AAA54787</string>
+			<string>926D1E93-ACDF-41C2-B6F2-86D4316EED0A</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -2677,7 +832,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-28-38-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_10-56-00-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -2698,18 +853,288 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707833718.94853699</real>
+			<real>708249360.31792605</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>8225F84E-8A35-4EB3-AEED-97059949E4DC</string>
+			<string>D0196EBA-501E-4919-8F31-7B1CBA33D842</string>
 		</dict>
-		<key>8266CD00-E588-4810-97BA-47CEB1A9B56E</key>
+		<key>D7C46621-B368-40B7-AD2C-33B65A8F7B6E</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>EC118F75-2A79-492C-BE54-E17123F5ED17</string>
+			<string>B358FA07-25AA-4629-9429-C3DF57521D1B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TarifiBul-2023.06.12_11-47-02-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TarifiBul project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TarifiBul</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TarifiBul</string>
+			<key>timeStartedRecording</key>
+			<real>708252422.53066003</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TarifiBul</string>
+			<key>uniqueIdentifier</key>
+			<string>D7C46621-B368-40B7-AD2C-33B65A8F7B6E</string>
+		</dict>
+		<key>DC689817-6236-4E50-99AB-2399FB29876C</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>CC754CB3-F839-4B9F-9A42-2B7A10B501C1</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TarifiBul-2023.06.12_10-56-44-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TarifiBul project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TarifiBul</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TarifiBul</string>
+			<key>timeStartedRecording</key>
+			<real>708249404.83921301</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TarifiBul</string>
+			<key>uniqueIdentifier</key>
+			<string>DC689817-6236-4E50-99AB-2399FB29876C</string>
+		</dict>
+		<key>DEC9039C-0FEB-4275-AC32-53705B52A21E</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8EC392D1-9F20-40F3-9C79-923A65DE996C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TarifiBul-2023.06.12_10-53-00-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TarifiBul project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TarifiBul</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TarifiBul</string>
+			<key>timeStartedRecording</key>
+			<real>708249180.41235495</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TarifiBul</string>
+			<key>uniqueIdentifier</key>
+			<string>DEC9039C-0FEB-4275-AC32-53705B52A21E</string>
+		</dict>
+		<key>F640CA21-D09E-4222-9B31-26DBD578561A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>94CA4911-A2E1-4C4D-AF91-863234032EB1</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TarifiBul-2023.06.12_11-11-23-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TarifiBul project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TarifiBul</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TarifiBul</string>
+			<key>timeStartedRecording</key>
+			<real>708250283.10868704</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TarifiBul</string>
+			<key>uniqueIdentifier</key>
+			<string>F640CA21-D09E-4222-9B31-26DBD578561A</string>
+		</dict>
+		<key>F8370D80-C6B9-422D-A8D7-BC2CD3161D29</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>58E271E0-ACA9-4201-981C-D5047F2D43B2</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TarifiBul-2023.06.12_12-09-46-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TarifiBul project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TarifiBul</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TarifiBul</string>
+			<key>timeStartedRecording</key>
+			<real>708253786.51105702</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TarifiBul</string>
+			<key>uniqueIdentifier</key>
+			<string>F8370D80-C6B9-422D-A8D7-BC2CD3161D29</string>
+		</dict>
+		<key>F86CEABC-6260-4074-AA32-B2E308481484</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>769E1B07-2023-49EE-BABD-6B3B25B49C11</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-TarifiBul-2023.06.12_10-53-50-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TarifiBul project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TarifiBul</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TarifiBul</string>
+			<key>timeStartedRecording</key>
+			<real>708249230.95149696</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run TarifiBul</string>
+			<key>uniqueIdentifier</key>
+			<string>F86CEABC-6260-4074-AA32-B2E308481484</string>
+		</dict>
+		<key>FD5D9297-27D0-4E12-A6D6-B68ED0837E2D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>1F2F7AF2-BA29-4D1B-9976-591C7D8E6196</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -2722,952 +1147,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_13-40-57-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707827257.18430805</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>8266CD00-E588-4810-97BA-47CEB1A9B56E</string>
-		</dict>
-		<key>82790866-2F49-4C7C-9642-F2559D7DA611</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3C209148-F631-4957-ADD2-48ECDB2CA710</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-49-09-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838549.94944596</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>82790866-2F49-4C7C-9642-F2559D7DA611</string>
-		</dict>
-		<key>83EF6AAD-75F0-4EA7-95C7-29F1737331D7</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>05B52082-A48C-4837-B1F9-CB66DAC313B0</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-14-24-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707822064.31668699</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>83EF6AAD-75F0-4EA7-95C7-29F1737331D7</string>
-		</dict>
-		<key>868AB09A-DE5F-4472-8045-819271D13EE6</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>70B4C737-CBE8-41F1-A16D-D3C7970094A4</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-44-42-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838282.86670101</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>868AB09A-DE5F-4472-8045-819271D13EE6</string>
-		</dict>
-		<key>87915AE4-E665-434F-996F-1BE62BADEB5C</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7BA46323-85D5-4E8C-9FE4-CBAD402A4806</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-19-08-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707833148.74358904</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>87915AE4-E665-434F-996F-1BE62BADEB5C</string>
-		</dict>
-		<key>8923BA7E-B239-4C67-BC1F-D7015C6CB72F</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C5071827-EBAD-4FBC-BCA5-E21D5A7DC4EC</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-00-54-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832054.68236399</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>8923BA7E-B239-4C67-BC1F-D7015C6CB72F</string>
-		</dict>
-		<key>89EBEDE0-9519-471A-9856-738ADCFC1531</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>9DE0FACB-6185-4ED0-BD26-A9E240F37096</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-00-10-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839210.56330502</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>89EBEDE0-9519-471A-9856-738ADCFC1531</string>
-		</dict>
-		<key>8A9F51EB-B003-4E62-A133-56B0A468DA6F</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>92CB902B-6013-4E0C-A142-8440177830BF</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-28-04-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707822884.77337503</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>8A9F51EB-B003-4E62-A133-56B0A468DA6F</string>
-		</dict>
-		<key>8B3BF43C-9CE4-48DD-AD22-00B598C0B66D</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>434BC234-6160-4A45-85F6-B2D40FB1A38D</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-00-42-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839242.99882102</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>8B3BF43C-9CE4-48DD-AD22-00B598C0B66D</string>
-		</dict>
-		<key>8DA86E9F-29B8-480F-BAD0-1852C1490ABA</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>91E891E5-E66B-4D2D-99EE-89B6840F15C3</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-59-17-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839157.171175</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>8DA86E9F-29B8-480F-BAD0-1852C1490ABA</string>
-		</dict>
-		<key>8E82D36B-5AC3-4B73-A74A-1C9F4D6DC04C</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>401DD5ED-8F27-484A-8AE6-714C77BF1BC2</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-36-02-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707837762.794765</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>8E82D36B-5AC3-4B73-A74A-1C9F4D6DC04C</string>
-		</dict>
-		<key>8EF5AE57-9719-4148-AD82-82BC53233C9D</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>BF59ABAA-6052-4D9B-B23A-4D4F9893BEB2</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-56-15-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838975.51297903</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>8EF5AE57-9719-4148-AD82-82BC53233C9D</string>
-		</dict>
-		<key>9179E40B-B8D3-4516-91E9-F6E3179912DB</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C810E1E6-E5A9-4FC1-B615-D35A9456067F</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-02-19-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839339.69203699</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>9179E40B-B8D3-4516-91E9-F6E3179912DB</string>
-		</dict>
-		<key>91C998CE-161F-4513-9DDE-AF0DA133E609</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>2EE83DA4-FB74-4D77-BC7A-017C7AC8C0C8</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-03-45-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839425.38154805</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>91C998CE-161F-4513-9DDE-AF0DA133E609</string>
-		</dict>
-		<key>93383C40-202C-4A8F-812E-C98CCB47E078</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>707594EA-0FA7-4CE4-A282-BB2918D25E26</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-34-01-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707837641.88782001</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>93383C40-202C-4A8F-812E-C98CCB47E078</string>
-		</dict>
-		<key>967922B9-C899-4025-A651-4D427FDE47FE</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C2156723-2546-4645-8D72-3615B276CF35</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-22-21-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707818941.54179704</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>967922B9-C899-4025-A651-4D427FDE47FE</string>
-		</dict>
-		<key>9BC6DBF8-AA8F-42BF-BB78-5080FB33654D</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>53476922-3966-4984-8C1A-0AC4C0DE8E9F</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-12-32-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839952.54654801</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>9BC6DBF8-AA8F-42BF-BB78-5080FB33654D</string>
-		</dict>
-		<key>9CF0982A-CCDD-4D92-932C-1002CFBEA044</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7E0DD229-0E3B-4981-B03A-D5E8ED25EACC</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-04-04-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839444.45183206</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>9CF0982A-CCDD-4D92-932C-1002CFBEA044</string>
-		</dict>
-		<key>9D8CC020-D9C3-400F-9A7A-B9F7F9C76AE6</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>99F10C04-4E8B-49AC-BBD6-B71A1F3D9A48</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-06-18-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839578.62180698</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>9D8CC020-D9C3-400F-9A7A-B9F7F9C76AE6</string>
-		</dict>
-		<key>A148737B-2E5A-4D0C-BDF2-CBDCC145572B</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>90D67404-78DA-4877-AE0C-2C091DF8385F</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-35-10-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707837710.26349902</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>A148737B-2E5A-4D0C-BDF2-CBDCC145572B</string>
-		</dict>
-		<key>A21188B3-15BE-43DF-A928-85F7BCCDB910</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F331AB90-2B97-459E-BF3C-99FE5D7654BD</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-50-03-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838603.15622604</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>A21188B3-15BE-43DF-A928-85F7BCCDB910</string>
-		</dict>
-		<key>A540979F-2125-465A-8BFF-42D0CD24B512</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>AABA3FC0-777A-49F8-96B5-21AADDEEA0D1</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-32-12-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_10-52-52-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -3688,18 +1168,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707830332.66554701</real>
+			<real>708249172.22083402</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>A540979F-2125-465A-8BFF-42D0CD24B512</string>
+			<string>FD5D9297-27D0-4E12-A6D6-B68ED0837E2D</string>
 		</dict>
-		<key>A78889DC-7F8F-4E89-89C4-0B3E65855DD3</key>
+		<key>FE503526-F5B5-4D52-887D-2E7B8E235821</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>765430B8-F28C-45FE-9BB2-C9D155396871</string>
+			<string>5D1BC57B-DD01-447E-97AD-C866D4E14763</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -3712,7 +1192,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-27-51-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_10-57-36-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -3733,18 +1213,18 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707830071.18089497</real>
+			<real>708249456.28941405</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>A78889DC-7F8F-4E89-89C4-0B3E65855DD3</string>
+			<string>FE503526-F5B5-4D52-887D-2E7B8E235821</string>
 		</dict>
-		<key>B118BB92-8D66-4375-B6C8-9DBAE9DF148A</key>
+		<key>FEAED3DA-BF3F-4728-BA57-B7976D2CC15E</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C286C15D-A3C5-4839-8945-9E71C2078E40</string>
+			<string>F6D759D2-B46C-4C87-B2CA-64037BE50687</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -3757,7 +1237,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-34-30-+0300.xcresult</string>
+			<string>Run-TarifiBul-2023.06.12_11-11-59-+0300.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -3778,2173 +1258,13 @@
 			<key>signature</key>
 			<string>Run TarifiBul</string>
 			<key>timeStartedRecording</key>
-			<real>707823270.62902498</real>
+			<real>708250319.97147202</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run TarifiBul</string>
 			<key>uniqueIdentifier</key>
-			<string>B118BB92-8D66-4375-B6C8-9DBAE9DF148A</string>
-		</dict>
-		<key>B71F883B-C10F-45DC-9C21-6C82460F5ECA</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>2B5E8646-DC62-42B9-9912-814B7B9ED22D</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_10-50-06-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707817006.53251505</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>B71F883B-C10F-45DC-9C21-6C82460F5ECA</string>
-		</dict>
-		<key>B9114AC9-525E-4368-AD4C-FDD2222DDE4A</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>2EC29BFD-3771-4C0C-8573-1E9DF101E27F</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-30-09-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707823009.65801001</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>B9114AC9-525E-4368-AD4C-FDD2222DDE4A</string>
-		</dict>
-		<key>B948D271-CF2D-498B-8769-3607449FE90F</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>CB38444C-D4F9-46EE-9951-57638BBA2C74</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-27-47-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707822867.03542197</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>B948D271-CF2D-498B-8769-3607449FE90F</string>
-		</dict>
-		<key>BD73B300-4F57-4E00-AA47-48C919162A6D</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>12DDE0C0-27F4-4AE4-A936-DE7D2FF655A4</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-33-08-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707837588.04366398</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>BD73B300-4F57-4E00-AA47-48C919162A6D</string>
-		</dict>
-		<key>C02C93B8-824E-4C08-BB02-2789964BFE2B</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>ABF9EED9-253D-405B-AFC4-35DC0FC0D8C1</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-37-20-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707823440.62239897</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>C02C93B8-824E-4C08-BB02-2789964BFE2B</string>
-		</dict>
-		<key>C2048B5C-1F51-4175-86BE-0E336A159F9F</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7C1B6EB6-D37A-4415-9C45-EA293A2326EC</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-33-52-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707823232.25731695</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>C2048B5C-1F51-4175-86BE-0E336A159F9F</string>
-		</dict>
-		<key>C2369E14-E497-451E-8879-F7E7C30DCEAD</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>9EAC6D8E-9FEB-4548-9C1A-F0949D71A476</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-30-19-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707823019.81826901</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>C2369E14-E497-451E-8879-F7E7C30DCEAD</string>
-		</dict>
-		<key>C257429D-7542-4AE5-A8D1-6551FB492153</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>092AF307-1B41-4430-8E8B-67B031880931</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-35-43-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707837743.36127305</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>C257429D-7542-4AE5-A8D1-6551FB492153</string>
-		</dict>
-		<key>C46AB54D-9544-4CF7-A662-24EF84A19962</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>11DDA297-B92A-4623-A996-EF2A943C33CA</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-37-55-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707819875.44960797</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>C46AB54D-9544-4CF7-A662-24EF84A19962</string>
-		</dict>
-		<key>C6AE3954-D17C-44A7-8493-521FA6E6F634</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>2A66DE74-3872-444F-AB87-DF7307A55CC3</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_10-33-36-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707816016.06253505</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>C6AE3954-D17C-44A7-8493-521FA6E6F634</string>
-		</dict>
-		<key>C7419E7F-64F4-46BD-911C-59CC5FE8550D</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>CBAAFE0C-7011-44B7-97BD-445BC3467721</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-12-58-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707818378.45353794</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>C7419E7F-64F4-46BD-911C-59CC5FE8550D</string>
-		</dict>
-		<key>C8A4CE7F-ABA1-4BEC-AE73-CE62FDB52E66</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>488BBCA8-F29A-4B87-9624-7C5DA032FDF7</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-08-44-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832524.87852705</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>C8A4CE7F-ABA1-4BEC-AE73-CE62FDB52E66</string>
-		</dict>
-		<key>C9E0C3E1-B86F-4756-BA49-5CEB36CF0F8C</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>2EFF777E-1906-4CA6-B9A4-62F60ACB3BCE</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-35-42-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707834142.40147495</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>C9E0C3E1-B86F-4756-BA49-5CEB36CF0F8C</string>
-		</dict>
-		<key>CA6592A5-B1F5-4A15-B2F8-B586236E36DA</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7325F218-ACCF-4D16-8EA7-ED2ADFE4F817</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-59-41-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707831981.92940295</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>CA6592A5-B1F5-4A15-B2F8-B586236E36DA</string>
-		</dict>
-		<key>CBB3F85A-2373-49DA-BA30-AB1AE6071782</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>BE42AEFE-87C1-47FD-931C-388B20CB01E4</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_10-33-06-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707815986.80426204</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>CBB3F85A-2373-49DA-BA30-AB1AE6071782</string>
-		</dict>
-		<key>CD822881-4240-4B77-A79B-32B82212D8D0</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F49BC05E-E3C7-4836-8360-5B2C63940BD6</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-40-02-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707834402.03197098</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>CD822881-4240-4B77-A79B-32B82212D8D0</string>
-		</dict>
-		<key>CD929E9B-930E-4C9F-A7A1-B506FFB0FE59</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>0F7FEF61-4BC2-45B7-BFDE-9249BDE92F29</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-38-14-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707819894.64479005</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>CD929E9B-930E-4C9F-A7A1-B506FFB0FE59</string>
-		</dict>
-		<key>D2C25AC8-1C2F-4D14-9DCB-D179865C88C7</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>CDE01622-91B2-487B-BCDE-181B042CA71E</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-54-19-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838859.14755094</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>D2C25AC8-1C2F-4D14-9DCB-D179865C88C7</string>
-		</dict>
-		<key>D3D9ABC2-ED9E-4C0A-AED1-767063F0E445</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>EC9F76D7-1241-459A-BC93-9E2BD6502ED1</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-08-24-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832504.40662301</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>D3D9ABC2-ED9E-4C0A-AED1-767063F0E445</string>
-		</dict>
-		<key>D3F8CE4B-05F2-4903-A93C-18D10EE1C0A8</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>FA978C27-EF63-4703-9567-5883C289F557</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-38-39-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707819919.97369695</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>D3F8CE4B-05F2-4903-A93C-18D10EE1C0A8</string>
-		</dict>
-		<key>D41C411E-62CE-4655-B468-80A9FDA4FDB7</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>EEB8C449-D208-4C9A-9F76-8A765C0130A4</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-00-00-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839200.19017899</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>D41C411E-62CE-4655-B468-80A9FDA4FDB7</string>
-		</dict>
-		<key>D474361C-1012-425D-8C84-10ACA422438E</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>320BF597-4E7F-4306-B157-44C4738F20EA</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-34-58-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707834098.74452102</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>D474361C-1012-425D-8C84-10ACA422438E</string>
-		</dict>
-		<key>D8CB6F14-97B8-4BFD-B763-07E20D1BA9FA</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C15B07CE-F0B7-46E7-9A07-193BD0B27842</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-11-35-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832695.377105</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>D8CB6F14-97B8-4BFD-B763-07E20D1BA9FA</string>
-		</dict>
-		<key>DD3BD24E-3A23-4118-826C-25ED02784A30</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>34D3D31D-83EC-45A7-BD1E-6269D088B39F</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-22-40-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707818960.62502098</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>DD3BD24E-3A23-4118-826C-25ED02784A30</string>
-		</dict>
-		<key>DD586769-A61E-4C86-AEFC-21D00758353E</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>10B1B390-8EA5-4DDE-8DDD-025E6B671542</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_13-36-54-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707827014.327191</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>DD586769-A61E-4C86-AEFC-21D00758353E</string>
-		</dict>
-		<key>DE987851-0A7B-4F28-8557-9ACC8A20618F</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>54118A8A-56A7-4B79-86A4-9083DF1B19CB</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_14-27-10-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707830030.82726705</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>DE987851-0A7B-4F28-8557-9ACC8A20618F</string>
-		</dict>
-		<key>DFEC19C7-90B5-40CD-A84B-4668B8B58778</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>5BF11960-98D8-4966-AE19-9539A0D9DCFD</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-15-13-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707818513.509251</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>DFEC19C7-90B5-40CD-A84B-4668B8B58778</string>
-		</dict>
-		<key>E0EBC92D-60E4-4C8C-AD80-B6E40A41A09F</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C567E47E-AFDD-4425-A7BE-B50764AF2667</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-11-36-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839896.73644602</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>E0EBC92D-60E4-4C8C-AD80-B6E40A41A09F</string>
-		</dict>
-		<key>E2A6F896-6EC9-4F22-BE04-D9B33458F13C</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>D3CF3DD5-936F-4454-9646-746EE63FF537</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-33-02-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707823182.90190399</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>E2A6F896-6EC9-4F22-BE04-D9B33458F13C</string>
-		</dict>
-		<key>E41F9F30-24CA-4879-B770-75485E88AF3B</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F9F4FC8E-39C5-4795-A031-08D5FDA10F0C</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.06_16-40-31-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707751631.39888</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>E41F9F30-24CA-4879-B770-75485E88AF3B</string>
-		</dict>
-		<key>E4213C4A-D431-43BB-ABA8-0FA327F494A8</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>E43F09AB-7BDD-4272-80AC-A2FE720D916C</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_11-38-47-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707819927.89910197</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>E4213C4A-D431-43BB-ABA8-0FA327F494A8</string>
-		</dict>
-		<key>E460078E-DDB7-4D0A-8902-54527E2C569C</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F8D82B3C-0A6D-4288-A6B7-809F23D98D66</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-09-00-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832540.29336202</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>E460078E-DDB7-4D0A-8902-54527E2C569C</string>
-		</dict>
-		<key>E5C27829-BB25-493D-A126-FAF71D310304</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3A1D72CA-47DC-4F41-9086-0516D6133810</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-00-34-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839234.36640406</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>E5C27829-BB25-493D-A126-FAF71D310304</string>
-		</dict>
-		<key>E8EC8D95-7019-468D-872D-C3CEAF73BFAB</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>06F4CA63-3912-417C-B1E5-B52280E6FAA1</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-26-58-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707822818.85329604</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>E8EC8D95-7019-468D-872D-C3CEAF73BFAB</string>
-		</dict>
-		<key>EA28C285-641D-4D0B-9525-77BE6F37DEBF</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>6C9845E7-3828-4081-8DFC-4A2577B74857</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-08-39-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832519.26318705</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>EA28C285-641D-4D0B-9525-77BE6F37DEBF</string>
-		</dict>
-		<key>EB734173-D34D-488B-8F86-C15BC73EBB3F</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>E7DAA6DB-4EC8-4056-9010-0740FD37B8FD</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_13-41-06-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707827266.26206601</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>EB734173-D34D-488B-8F86-C15BC73EBB3F</string>
-		</dict>
-		<key>EC9F81D4-DFA7-44CD-9C4A-4D97AEA506DE</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>443EE7C6-568F-4614-9245-85B811409B1B</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-27-14-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707822834.81116998</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>EC9F81D4-DFA7-44CD-9C4A-4D97AEA506DE</string>
-		</dict>
-		<key>ECBA570F-1893-43AC-B9A9-89305ED9326B</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>AB59D27F-0313-4B22-BC64-232966B386CD</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-39-06-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707834346.677706</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>ECBA570F-1893-43AC-B9A9-89305ED9326B</string>
-		</dict>
-		<key>ED12D9C7-3AA0-4F5A-BB01-AEAA87149834</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>9F593F83-2607-46CC-94A0-BCF932B9383C</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_13-00-49-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707824849.832847</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>ED12D9C7-3AA0-4F5A-BB01-AEAA87149834</string>
-		</dict>
-		<key>EDA3B25E-9410-4ACF-95BF-FBE18CEEA46D</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>7168C59D-910C-40A7-9801-8F65FC9322BB</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-25-32-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707822732.57573295</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>EDA3B25E-9410-4ACF-95BF-FBE18CEEA46D</string>
-		</dict>
-		<key>EEEEDE46-0409-43FD-9F72-19DE08A2E7C0</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>88F77E73-ADD8-4E97-A3E2-DA7949EE4A55</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_12-37-32-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707823452.81297898</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>EEEEDE46-0409-43FD-9F72-19DE08A2E7C0</string>
-		</dict>
-		<key>F2515EAA-1267-4D50-BCAE-1C38D3FCCA3F</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>FEC314CB-5937-4BF1-B5C6-9AFE8594CF4C</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_15-13-33-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707832813.33317602</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>F2515EAA-1267-4D50-BCAE-1C38D3FCCA3F</string>
-		</dict>
-		<key>F7A48972-5BB3-46DD-974C-EBB4207BB189</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C01085F8-2A1D-4A0B-AE81-A18A0D36E2DC</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-51-40-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838700.93981695</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>F7A48972-5BB3-46DD-974C-EBB4207BB189</string>
-		</dict>
-		<key>F8269938-A5B1-467E-9915-BEFE6783BB79</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F98CD15F-587E-4571-B84B-1FAE298B37F8</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_13-41-49-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707827309.01488805</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>F8269938-A5B1-467E-9915-BEFE6783BB79</string>
-		</dict>
-		<key>FADDE44B-9274-42C3-A1F3-46EF4F770B9E</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>B87EF56D-D7FB-4ACC-A5F3-4429138EEE40</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-47-48-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838468.55205202</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>FADDE44B-9274-42C3-A1F3-46EF4F770B9E</string>
-		</dict>
-		<key>FE372495-8ADC-4E99-9323-51C1A5301AC9</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>EF873950-DD9E-4F44-A70A-55C23416D866</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_16-47-34-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707838454.13456595</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>FE372495-8ADC-4E99-9323-51C1A5301AC9</string>
-		</dict>
-		<key>FEB8754F-A24C-40E8-AF38-8C642FB6D500</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>777ABDAB-388B-4F70-8EA3-8D882AC49B4A</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-10-55-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839855.14674604</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>FEB8754F-A24C-40E8-AF38-8C642FB6D500</string>
-		</dict>
-		<key>FFB4F33F-80B7-4184-8B03-02AD5A1F6094</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>9029A813-FEE6-41E3-945F-7E39EB0F61AD</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-TarifiBul-2023.06.07_17-05-02-+0300.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>TarifiBul project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>TarifiBul</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run TarifiBul</string>
-			<key>timeStartedRecording</key>
-			<real>707839502.33666301</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run TarifiBul</string>
-			<key>uniqueIdentifier</key>
-			<string>FFB4F33F-80B7-4184-8B03-02AD5A1F6094</string>
+			<string>FEAED3DA-BF3F-4728-BA57-B7976D2CC15E</string>
 		</dict>
 	</dict>
 </dict>

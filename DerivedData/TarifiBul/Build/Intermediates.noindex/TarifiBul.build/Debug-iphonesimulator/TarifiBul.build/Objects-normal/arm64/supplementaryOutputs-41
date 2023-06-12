@@ -1,0 +1,20 @@
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/Entity/Login/LoginModel.swift":
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginModel.d"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginModel.swiftdeps"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginModel.dia"
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/LoginModel.o"
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/Utils/Enum/ColorName.swift":
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ColorName.d"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ColorName.dia"
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ColorName.o"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ColorName.swiftdeps"
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Feature/Authentication/LoginScreen/View/Presenter/SignInPresenter.swift":
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SignInPresenter.d"
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SignInPresenter.o"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SignInPresenter.dia"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/SignInPresenter.swiftdeps"
+"/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/TarifiBul/Product/Utils/Enum/ImageName.swift":
+  object: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ImageName.o"
+  swift-dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ImageName.swiftdeps"
+  dependencies: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ImageName.d"
+  diagnostics: "/Users/urazalkis/Documents/MyApps/iosApps/TarifiBul/DerivedData/TarifiBul/Build/Intermediates.noindex/TarifiBul.build/Debug-iphonesimulator/TarifiBul.build/Objects-normal/arm64/ImageName.dia"
