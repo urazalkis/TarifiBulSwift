@@ -1,0 +1,11 @@
+# Build dosyaları ve klasörleri
+build/
+DerivedData/
+
+# Xcode projeleri
+*.xcodeproj/
+*.xcworkspace/
+
+# Swift Package Manager
+Packages/
+Package.pins
