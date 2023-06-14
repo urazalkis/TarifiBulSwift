@@ -7,22 +7,25 @@
 
 import Foundation
 import UIKit
-class UserTextField : StandardTextField{
-    private let prefixImageView : UIImageView = {
+class UserTextField: StandardTextField {
+    private let prefixView: UIView = {
+        let view = UIView()
+    
+        return view
+    }()
+    
+    private let prefixImageView: UIImageView = {
         let imageView = UIImageView()
         imageView.contentMode = .center
         imageView.image = UIImage(systemName: "person")
         imageView.tintColor = .gray
-        imageView.frame = CGRect(x: 0, y: 0, width: 60, height: 40)
-        
         return imageView
-        
     }()
+    
     private let hint = LocaleKeys.userNameOrEmail.locale
     
-    
-    override init(frame: CGRect, validator: Bool?) {
-        super.init(frame: frame, validator: validator)
+    override init(validator: Bool?) {
+        super.init(validator: validator)
         setupView()
     }
     
@@ -31,20 +34,30 @@ class UserTextField : StandardTextField{
     }
     
     private func setupView() {
-        // frame = CGRect(x: frame.origin.x, y: frame.origin.y, width: 300, height: 45)
         clearButtonMode = .whileEditing
         placeholder = hint
         backgroundColor = .white
         layer.cornerRadius = 10
         layer.borderWidth = 0.5
         layer.borderColor = UIColor.black.cgColor
-        leftView = prefixImageView
-        leftViewMode = .always
-        translatesAutoresizingMaskIntoConstraints = false
         
-        snp.makeConstraints { make in
+        leftView = prefixView
+        leftViewMode = .always
+        
+        prefixView.addSubview(prefixImageView)
+        prefixImageView.snp.makeConstraints { make in
+            //make.edges.equalToSuperview().inset(UIEdgeInsets(top: 0, left: 10, bottom: 0, right: 10)) //alttakinin aynısı gibi
+            make.center.equalToSuperview()
+            make.leftMargin.equalTo(10)
+        }
+        
+        // Sol kenar için boşluk eklemek için TextField'in layoutConstraint'lerini güncelle
+        self.snp.makeConstraints { make in
             make.width.equalTo(300)
             make.height.equalTo(45)
         }
+        
+        translatesAutoresizingMaskIntoConstraints = false
     }
 }
+

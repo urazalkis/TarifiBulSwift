@@ -317,6 +317,7 @@ SWIFT_CLASS("_TtC9TarifiBul13LoadingButton")
 @interface LoadingButton : CircularButton
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (void)changeLoadingState;
 @end
 
 
@@ -329,6 +330,20 @@ SWIFT_CLASS("_TtC9TarifiBul19LoginViewController")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
+
+
+SWIFT_CLASS("_TtC9TarifiBul17StandardTextField")
+@interface StandardTextField : UITextField
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (void)textFieldDidChange:(UITextField * _Nonnull)textField;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+
+SWIFT_CLASS("_TtC9TarifiBul17PasswordTextField")
+@interface PasswordTextField : StandardTextField <UITextFieldDelegate>
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
 
 @class UIWindow;
 @class UIScene;
@@ -364,18 +379,11 @@ SWIFT_CLASS("_TtC9TarifiBul20SignUpViewController")
 @end
 
 
-SWIFT_CLASS("_TtC9TarifiBul17StandardTextField")
-@interface StandardTextField : UITextField
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-- (void)textFieldDidChange:(UITextField * _Nonnull)textField;
-- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
-@end
-
 
 
 SWIFT_CLASS("_TtC9TarifiBul12SuccessAlert")
 @interface SuccessAlert : UIAlertController
-- (void)viewDidLoad;
+- (void)viewWillAppear:(BOOL)animated;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end

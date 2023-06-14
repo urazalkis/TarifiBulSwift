@@ -7,9 +7,9 @@
 	<string>ImageIO</string>
 	<string>objc</string>
 	<string>UniformTypeIdentifiers</string>
-	<string>Accelerate</string>
-	<string>SnapKit</string>
 	<string>CoreData</string>
+	<string>SnapKit</string>
+	<string>Accelerate</string>
 	<string>MobileCoreServices</string>
 	<string>CoreImage</string>
 	<string>CoreServices</string>

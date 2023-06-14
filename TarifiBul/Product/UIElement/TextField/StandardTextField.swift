@@ -10,11 +10,11 @@ import UIKit
 
 class StandardTextField : UITextField {
     var validator : Bool?
-    var isValidate : Bool = true
+    var isValidate : Bool = false
     var validationLabel = UILabel()
     
-     init(frame: CGRect,validator : Bool?) {
-        super.init(frame: frame)
+     init(validator : Bool? = nil) {
+         super.init(frame: .zero)
         self.validator = validator
           setupTextField()
           setupValidationLabel()
@@ -32,8 +32,11 @@ class StandardTextField : UITextField {
         layer.cornerRadius = 10
         layer.borderWidth = 0.5
         layer.borderColor = UIColor.black.cgColor
-        leftViewMode = .always
-        translatesAutoresizingMaskIntoConstraints = false
+       
+        autocapitalizationType = .none // büyük harfle başlamasını engellemek için
+       // translatesAutoresizingMaskIntoConstraints = false
+    
+        
         self.addTarget(self, action: #selector(textFieldDidChange(_:)), for:.editingChanged)
        snp.makeConstraints { make in
             make.width.equalTo(300)
@@ -44,14 +47,17 @@ class StandardTextField : UITextField {
         //validationLabel.text = validationString()
         validationLabel.textColor = .red
         addSubview(validationLabel)
-        validationLabel.font = UIFont.systemFont(ofSize: 12)
+        validationLabel.font = UIFont.systemFont(ofSize: 10)
         validationLabel.snp.makeConstraints { make in
             make.bottom.equalTo(self).offset(20)
 
          }
     }
     @objc func textFieldDidChange(_ textField:UITextField){
-        validationLabel.text = validationString()
+        if let validationText = validationString(){
+            validationLabel.text = validationString()
+        }
+        
     }
 }
 extension StandardTextField {

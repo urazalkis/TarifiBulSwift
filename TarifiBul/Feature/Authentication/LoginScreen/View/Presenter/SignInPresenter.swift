@@ -30,6 +30,7 @@ final class SignInPresenter : ISignInPresenter {
     func interactorDidFetchLogin(result: Result<LoginResponseModel, Error>) {
         switch result {
         case .success(let model):
+            print("success calisti")
             view?.showLoginResponse(with: model)
             
         case .failure(let error):

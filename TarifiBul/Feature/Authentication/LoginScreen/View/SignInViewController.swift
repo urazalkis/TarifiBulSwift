@@ -13,7 +13,7 @@ protocol ISignInView {
 }
 class SignInViewController: UIViewController,ISignInView {
     var presenter: ISignInPresenter?
-
+    private let paddingValue = 25
     private let userNameorEmailLabel : UILabel = {
         let label = UILabel()
         label.text = LocaleKeys.userNameOrEmail.locale
@@ -24,18 +24,24 @@ class SignInViewController: UIViewController,ISignInView {
         label.font = label.font.withSize(14)
         return label
     }()
-    private let userTextField = UserTextField(frame: CGRect(), validator: true)
+    private let userTextField = UserTextField(validator: true)
     let passwordLabel : UILabel = {
         let label = UILabel()
         label.text = LocaleKeys.password.locale
         label.numberOfLines = 0
-        label.lineBreakMode = .byTruncatingTail  // üç nokta şeklinde belirtir eğer aşarsa. yukarısını 0 yaptığım için büyük ihtimal burası çalışmaz. 0 yapınca sınırsız oluyor
+        label.lineBreakMode = .byTruncatingTail
         label.textColor = .black
         label.font = UIFont.boldSystemFont(ofSize: 16)
         label.font = label.font.withSize(14)
         return label
     }()
-    private let passwordTextField = UserTextField(frame: CGRect(), validator: true)
+    private let passwordTextField = PasswordTextField(validator: true)
+    private let forgotPasswordButton : UIButton = {
+        let button = UIButton()
+        button.setTitle(LocaleKeys.forgotPassword.locale, for: .normal)
+        button.setTitleColor(.black, for: .normal)
+        return button
+    }()
     
     private lazy var loginButton : LoadingButton = {
         let button = LoadingButton()
@@ -43,6 +49,7 @@ class SignInViewController: UIViewController,ISignInView {
         button.setTitleColor(.white, for: .normal)
 
         button.addTarget(self, action: #selector(loginButtonTapped), for: .touchUpInside)
+        
         return button
     }()
     var  paddingView = UIView()
@@ -52,16 +59,29 @@ class SignInViewController: UIViewController,ISignInView {
     }
     @objc func loginButtonTapped() {
         if(userTextField.isValidate){
+            loginButton.changeLoadingState()
+            print(loginButton.isLoading)
             presenter?.fetchLogin(userName: userTextField.text!, password: passwordTextField.text!)
+            loginButton.changeLoadingState()
+            print(loginButton.isLoading)
+    
         }
     }
     func showLoginResponse(with loginResponse: LoginResponseModel?) {
-        let alert = SuccessAlert(title: nil, message: loginResponse?.token, preferredStyle: .alert)
-        present(alert,animated: true,completion: nil)
+        if(loginResponse?.success==true){
+            let alert = SuccessAlert(title: nil, message: loginResponse?.token, preferredStyle: .alert)
+            present(alert,animated: true,completion: nil)
+        }
+        else {
+            let alert = ErrorAlert(title: nil, message: loginResponse?.message, preferredStyle: .alert)
+            present(alert,animated: true,completion: nil)
+        }
+        
     }
     func showLoginResponse(with error: String) {
         let alert = ErrorAlert(title: nil, message: error, preferredStyle: .alert)
         present(alert,animated: true,completion: nil)
+       
     }
 }
 extension SignInViewController {
@@ -77,6 +97,7 @@ extension SignInViewController {
         view.addSubview(userTextField)
         view.addSubview(passwordLabel)
         view.addSubview(passwordTextField)
+        view.addSubview(forgotPasswordButton)
         view.addSubview(loginButton)
     }
     func setupAll() {
@@ -86,6 +107,7 @@ extension SignInViewController {
         setupUserTextField()
         setupPasswordLabel()
         setupPasswordTextField()
+        setupForgotPasswordButton()
         setupLoginButton()
     }
     func setupView() {
@@ -111,26 +133,33 @@ extension SignInViewController {
     
     func setupUserTextField() {
         userTextField.snp.makeConstraints { make in
-            make.top.equalTo(userNameorEmailLabel.snp.bottom).offset(15)
-            make.leading.equalTo(userNameorEmailLabel)
+            make.top.equalTo(userNameorEmailLabel.snp.bottom).offset(paddingValue-15)
+            make.leading.equalTo(paddingView)
         
         }
     }
     func setupPasswordLabel() {
         passwordLabel.snp.makeConstraints { make in
-            make.top.equalTo(userTextField.snp.bottom).offset(15)
+            make.top.equalTo(userTextField.snp.bottom).offset(paddingValue)
             make.leading.equalTo(paddingView)
         }
     }
+    
     func setupPasswordTextField() {
         passwordTextField.snp.makeConstraints { make in
-            make.top.equalTo(passwordLabel.snp.bottom).offset(15)
-            make.leading.equalTo(passwordLabel)
+            make.top.equalTo(passwordLabel.snp.bottom).offset(paddingValue-15)
+            make.leading.equalTo(paddingView)
+        }
+    }
+    func setupForgotPasswordButton() {
+        forgotPasswordButton.snp.makeConstraints { make in
+            make.top.equalTo(passwordTextField.snp.bottom).offset(paddingValue)
+            make.trailing.equalTo(passwordTextField)
         }
     }
     func setupLoginButton() {
         loginButton.snp.makeConstraints { make in
-            make.top.equalTo(passwordTextField.snp.bottom).offset(15)
+            make.top.equalTo(forgotPasswordButton.snp.bottom).offset(paddingValue)
             make.centerX.equalTo(paddingView.snp.centerX)
             make.width.equalTo(paddingView)
             make.height.equalTo(50)

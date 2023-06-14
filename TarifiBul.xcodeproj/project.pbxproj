@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7C47FF882A36FD6600632528 /* StandardTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C47FF872A36FD6600632528 /* StandardTextField.swift */; };
+		7C47FF8A2A3746EF00632528 /* PasswordTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C47FF892A3746EF00632528 /* PasswordTextField.swift */; };
 		7C5120BE2A28B77B00484B5A /* ColorName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5120BD2A28B77B00484B5A /* ColorName.swift */; };
 		7C5120C12A28B7F500484B5A /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 7C5120C02A28B7F500484B5A /* Alamofire */; };
 		7C5120C42A28B80600484B5A /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 7C5120C32A28B80600484B5A /* SnapKit */; };
@@ -64,6 +65,7 @@
 
 /* Begin PBXFileReference section */
 		7C47FF872A36FD6600632528 /* StandardTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandardTextField.swift; sourceTree = "<group>"; };
+		7C47FF892A3746EF00632528 /* PasswordTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordTextField.swift; sourceTree = "<group>"; };
 		7C5120BD2A28B77B00484B5A /* ColorName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorName.swift; sourceTree = "<group>"; };
 		7C5120CA2A28BC8600484B5A /* LocaleKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocaleKeys.swift; sourceTree = "<group>"; };
 		7C5120CD2A28BF0500484B5A /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
@@ -197,8 +199,8 @@
 			children = (
 				7C6EB3E42A27800D00246C29 /* LoginViewController.swift */,
 				7CFA17B92A31BA2800296292 /* SignInViewController.swift */,
-				7C9AFBBE2A2DF33200A47F1C /* Presenter */,
 				7CFA17BB2A31BA3400296292 /* SignUpViewController.swift */,
+				7C9AFBBE2A2DF33200A47F1C /* Presenter */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -385,6 +387,7 @@
 			children = (
 				7CFA17BE2A31CD3900296292 /* UserTextField.swift */,
 				7C47FF872A36FD6600632528 /* StandardTextField.swift */,
+				7C47FF892A3746EF00632528 /* PasswordTextField.swift */,
 			);
 			path = TextField;
 			sourceTree = "<group>";
@@ -543,6 +546,7 @@
 				7CFA17BF2A31CD3900296292 /* UserTextField.swift in Sources */,
 				7CFA17C12A32115100296292 /* LoadingButton.swift in Sources */,
 				7C9AFBCC2A2DFE4900A47F1C /* LoginResponseModel.swift in Sources */,
+				7C47FF8A2A3746EF00632528 /* PasswordTextField.swift in Sources */,
 				7CFA17BC2A31BA3400296292 /* SignUpViewController.swift in Sources */,
 				7C6DB7C62A335F0F00B6394E /* SignInRouter.swift in Sources */,
 				7CF87EDC2A309E910080DC38 /* UIViewExtension.swift in Sources */,

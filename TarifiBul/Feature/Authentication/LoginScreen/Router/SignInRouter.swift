@@ -29,7 +29,7 @@ final class SignInRouter : ISignInRouter {
         view.presenter = presenter
 
         
-        presenter.view = SignInViewController()
+        presenter.view = view
         presenter.router = router
         presenter.interactor = interactor
         

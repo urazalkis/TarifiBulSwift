@@ -9,9 +9,11 @@ import Foundation
 import UIKit
 
 final class SuccessAlert : UIAlertController {
-    override func viewDidLoad() {
-        setupAlert()
-    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+           super.viewWillAppear(animated)
+           setupAlert()
+       }
     private func setupAlert(){
         title = LocaleKeys.success.locale
         view.subviews.first?.backgroundColor = .systemGreen

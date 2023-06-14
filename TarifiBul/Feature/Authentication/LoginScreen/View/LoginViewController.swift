@@ -44,14 +44,10 @@ class LoginViewController: UIViewController,ILoginView{
         return button
     }()
     @objc func loginButtonTapped() {
-        print("merhaba")
-        print(presenter)
-       // presenter?.fetchLogin(userName: "urazalkis", password: "uraz12345")
+
         presenter?.router?.navigateToSignIn()
     }
     @objc func newAccountButtonTapped() {
-        print("merhaba")
-        //presenter?.fetchLogin(userName: "urazalkis", password: "uraz12345")
     }
     
     
