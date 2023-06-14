@@ -12,7 +12,7 @@ protocol ISignInPresenter {
     var interactor : ISignInInteractor? {get set}
     var view : ISignInView? {get set}
     func fetchLogin(userName:String, password: String)
-    func interactorDidFetchLogin(result : Result<LoginResponseModel,Error>)
+    func interactorDidFetchLogin(result : Result<SignInResponseModel,Error>)
 }
 
 final class SignInPresenter : ISignInPresenter {
@@ -23,18 +23,19 @@ final class SignInPresenter : ISignInPresenter {
     var view: ISignInView?
     
     func fetchLogin(userName:String, password: String){
-        print("fetchlogin tiklandi")
         interactor?.fetchLoginResponse(userName: userName, password: password)
-        
     }
-    func interactorDidFetchLogin(result: Result<LoginResponseModel, Error>) {
+    func interactorDidFetchLogin(result: Result<SignInResponseModel, Error>) {
         switch result {
         case .success(let model):
-            print("success calisti")
-            view?.showLoginResponse(with: model)
+            self.view?.changeButtonLoadingState()
+            view?.showLoginResultAlert(with: model)
+           
             
         case .failure(let error):
-            view?.showLoginResponse(with: error.localizedDescription)
+            self.view?.changeButtonLoadingState()
+            view?.showLoginResultAlert(with: error.localizedDescription)
+            
         }
     }
 }

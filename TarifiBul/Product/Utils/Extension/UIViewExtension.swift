@@ -10,12 +10,33 @@ import UIKit
 extension UIView{
     func paddingPage() {
         
-        let padding = 25
+        let edgePadding = 25
         translatesAutoresizingMaskIntoConstraints = false
-        self.snp.makeConstraints { make in
-            make.leading.equalToSuperview().offset(padding)
-            make.trailing.equalToSuperview().offset(-padding)
-            
+        if let safeAreaLayoutGuide = self.superview?.safeAreaLayoutGuide{
+            self.snp.makeConstraints { make in
+                make.top.equalTo(safeAreaLayoutGuide.snp.topMargin)
+                make.bottom.equalTo(safeAreaLayoutGuide.snp.bottomMargin)
+                make.leading.equalToSuperview().offset(edgePadding)
+                make.trailing.equalToSuperview().offset(-edgePadding)
+                
+            }
         }
+       
+    }
+    func paddingPageModalView() {
+        
+        let edgePadding = 25
+        let topBottomPadding = 25
+        translatesAutoresizingMaskIntoConstraints = false
+        if let safeAreaLayoutGuide = self.superview?.safeAreaLayoutGuide{
+            self.snp.makeConstraints { make in
+                make.top.equalTo(safeAreaLayoutGuide.snp.topMargin).offset(topBottomPadding)
+                make.bottom.equalTo(safeAreaLayoutGuide.snp.bottomMargin).offset(-topBottomPadding)
+                make.leading.equalToSuperview().offset(edgePadding)
+                make.trailing.equalToSuperview().offset(-edgePadding)
+                
+            }
+        }
+       
     }
 }

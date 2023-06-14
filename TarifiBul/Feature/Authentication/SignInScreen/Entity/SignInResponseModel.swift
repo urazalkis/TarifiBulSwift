@@ -6,7 +6,7 @@
 //
 
 import Foundation
-struct LoginResponseModel: Codable {
+struct SignInResponseModel: Codable {
     let success: Bool?
     let data: UserData?
     let expiresIn: Int?

@@ -16,12 +16,12 @@ final class SignInInteractor : ISignInInteractor {
     var presenter: ISignInPresenter?
     
     func fetchLoginResponse(userName:String,password:String) {
-        print("fetchLoginResponse tiklandi")
-        let loginModel = LoginModel(username: userName, password: password)
-        NetworkManager.shared.post(path: .login,model: loginModel) { (response:LoginResponseModel) in
+        let loginModel = SignInModel(username: userName, password: password)
+        NetworkManager.shared.post(path: .login,model: loginModel) { (response:SignInResponseModel) in
             self.presenter?.interactorDidFetchLogin(result: .success(response))
         } onError: { error in
-            self.presenter?.interactorDidFetchLogin(result: .failure(error));
+            self.presenter?.interactorDidFetchLogin(result: .failure(error))
+         
         }
     }
 }

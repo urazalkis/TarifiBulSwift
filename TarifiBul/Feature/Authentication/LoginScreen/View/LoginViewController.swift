@@ -48,6 +48,7 @@ class LoginViewController: UIViewController,ILoginView{
         presenter?.router?.navigateToSignIn()
     }
     @objc func newAccountButtonTapped() {
+        presenter?.router?.navigateToSignUp()
     }
     
     
@@ -86,8 +87,8 @@ extension LoginViewController{
         safeAreaView.snp.makeConstraints { make in
         //make.edges.equalTo(view.safeAreaLayoutGuide)
             safeAreaView.paddingPage()
-            make.top.equalTo(view.safeAreaLayoutGuide.snp.topMargin) // Safe area üst kenarına hizala
-            make.bottom.equalTo(view.safeAreaLayoutGuide.snp.bottomMargin)
+            /*make.top.equalTo(view.safeAreaLayoutGuide.snp.topMargin) // Safe area üst kenarına hizala
+            make.bottom.equalTo(view.safeAreaLayoutGuide.snp.bottomMargin)*/
             
         }
         

@@ -28,8 +28,6 @@ protocol INetworkManager {
      private init(){
          
      }
-     func ads(){
-     }
      func fetch<T: Codable>(path: NetworkPath, method: HTTPMethod,onSuccess:@escaping(T)->(),
                             onError:@escaping (Error)->()) {
          AF.request("\(NetworkPath.baseUrl)\(path.rawValue)", method: method)
@@ -38,10 +36,10 @@ protocol INetworkManager {
                                 onSuccess(model)
                             } else if let error = response.error {
                                  onError(NetworkError.ParsingFailed())
-                                print("Network error:", error)
+                              
                             } else {
                                 onError(NetworkError.ParsingFailed())
-                                print("Parsing error")
+                              
                             }
                  guard let model = response.value else {return onError(NetworkError.ParsingFailed())}
                  onSuccess(model)
@@ -66,10 +64,10 @@ protocol INetworkManager {
                                         onSuccess(model)
                                     } else if let error = response.error {
                                         onError(error)
-                                        print("Network error:", error)
+                                       
                                     } else {
                                         onError(NetworkError.ParsingFailed())
-                                        print("Parsing error")
+                                      
                                     }
              }
      }

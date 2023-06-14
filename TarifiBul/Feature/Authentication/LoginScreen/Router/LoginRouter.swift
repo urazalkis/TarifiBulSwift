@@ -13,6 +13,7 @@ protocol ILoginRouter {
     var entry : LoginEntryPoint? {get}
     static func startExecution() -> ILoginRouter
     func navigateToSignIn()
+    func navigateToSignUp()
 }
 
 final class LoginRouter : ILoginRouter {
@@ -42,6 +43,20 @@ final class LoginRouter : ILoginRouter {
             }
             if let entry = entry {
                 entry.present(signInVC,animated: true,completion: nil)
+            }
+
+        }
+    
+    }
+    func navigateToSignUp() {
+        let routerInstance = SignUpRouter.startExecution()
+        print(routerInstance.entry)
+        if let signUpVC = routerInstance.entry{
+            if let sheet = signUpVC.sheetPresentationController {
+                sheet.detents = [.medium(),.large()]
+            }
+            if let entry = entry {
+                entry.present(signUpVC,animated: true,completion: nil)
             }
 
         }

@@ -12,7 +12,7 @@ class LoadingButton : CircularButton {
     private var activityIndicator: UIActivityIndicatorView!
     var isLoading: Bool = false
     var title : String?
-    var onClick : (() ->Void)?
+    @objc var onClick : (() ->Void)?
     override init(frame: CGRect) {
         super.init(frame: frame)
         setupButton()
@@ -29,6 +29,7 @@ class LoadingButton : CircularButton {
     @objc func changeLoadingState() {
         if !isLoading {
             isLoading = true
+            isEnabled = false
             title = title(for: .normal)
             setTitle("", for: .normal)
             showLoadingIndicator()
@@ -37,6 +38,7 @@ class LoadingButton : CircularButton {
         }
         else  {
             isLoading = false
+            isEnabled = true
             setTitle(self.title, for: .normal)
             hideLoadingIndicator()
         }
@@ -44,7 +46,7 @@ class LoadingButton : CircularButton {
     
     
     private func setupButton(){
-        self.addTarget(self, action: #selector(changeLoadingState), for: .touchUpInside)
+       // self.addTarget(self, action: #selector(changeLoadingState), for: .touchUpInside)
     }
     private func setupIndicator() {
         activityIndicator = UIActivityIndicatorView(style: .medium)

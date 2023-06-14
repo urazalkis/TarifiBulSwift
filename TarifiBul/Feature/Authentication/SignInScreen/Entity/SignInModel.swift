@@ -7,6 +7,6 @@
 
 import Foundation
 
-struct LoginModel: Encodable {
+struct SignInModel: Encodable {
     let username, password: String?
 }

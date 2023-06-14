@@ -8,8 +8,9 @@
 import UIKit
 protocol ISignInView {
     var presenter : ISignInPresenter? {get set}
-    func showLoginResponse(with loginResponse : LoginResponseModel?)
-    func showLoginResponse(with error : String)
+    func showLoginResultAlert(with signInResponse : SignInResponseModel?)
+    func showLoginResultAlert(with error : String)
+    func changeButtonLoadingState()
 }
 class SignInViewController: UIViewController,ISignInView {
     var presenter: ISignInPresenter?
@@ -58,27 +59,29 @@ class SignInViewController: UIViewController,ISignInView {
        configure()
     }
     @objc func loginButtonTapped() {
+        changeButtonLoadingState()
         if(userTextField.isValidate){
-            loginButton.changeLoadingState()
-            print(loginButton.isLoading)
             presenter?.fetchLogin(userName: userTextField.text!, password: passwordTextField.text!)
-            loginButton.changeLoadingState()
-            print(loginButton.isLoading)
-    
         }
     }
-    func showLoginResponse(with loginResponse: LoginResponseModel?) {
-        if(loginResponse?.success==true){
-            let alert = SuccessAlert(title: nil, message: loginResponse?.token, preferredStyle: .alert)
+     func changeButtonLoadingState(){
+        if(userTextField.isValidate){
+        loginButton.changeLoadingState()
+        }
+        print(loginButton.isLoading)
+    }
+    func showLoginResultAlert(with signInResponse: SignInResponseModel?) {
+        if(signInResponse?.success==true){
+            let alert = SuccessAlert(title: nil, message: signInResponse?.token, preferredStyle: .alert)
             present(alert,animated: true,completion: nil)
         }
         else {
-            let alert = ErrorAlert(title: nil, message: loginResponse?.message, preferredStyle: .alert)
+            let alert = ErrorAlert(title: nil, message: signInResponse?.message, preferredStyle: .alert)
             present(alert,animated: true,completion: nil)
         }
         
     }
-    func showLoginResponse(with error: String) {
+    func showLoginResultAlert(with error: String) {
         let alert = ErrorAlert(title: nil, message: error, preferredStyle: .alert)
         present(alert,animated: true,completion: nil)
        
@@ -115,13 +118,8 @@ extension SignInViewController {
         
     }
     func setupPaddingView() {
-        paddingView.snp.makeConstraints { make in
-            make.top.equalTo(view).offset(25)
-            make.bottom.equalTo(view)
-            paddingView.paddingPage()
-            
-        }
-        paddingView.paddingPage()
+
+        paddingView.paddingPageModalView()
         
     }
     func setupUserNameLabel() {
