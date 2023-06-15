@@ -68,12 +68,12 @@ extension StandardTextField {
            }
            else  {
                isValidate = true
-               return nil
+               return ""
            }
         }
         else {
             isValidate = true
-            return nil
+            return ""
         }
     }
 }
