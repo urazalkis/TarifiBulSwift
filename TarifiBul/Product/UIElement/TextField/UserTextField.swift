@@ -50,14 +50,6 @@ class UserTextField: StandardTextField {
             make.center.equalToSuperview()
             make.leftMargin.equalTo(10)
         }
-        
-        // Sol kenar için boşluk eklemek için TextField'in layoutConstraint'lerini güncelle
-        self.snp.makeConstraints { make in
-            make.width.equalTo(300)
-            make.height.equalTo(45)
-        }
-        
-        translatesAutoresizingMaskIntoConstraints = false
     }
 }
 

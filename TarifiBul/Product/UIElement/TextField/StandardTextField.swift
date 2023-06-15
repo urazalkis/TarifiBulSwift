@@ -14,7 +14,7 @@ class StandardTextField : UITextField {
     var validationLabel = UILabel()
     
      init(validator : Bool? = nil) {
-         super.init(frame: .zero)
+         super.init(frame: CGRect(x: 0, y: 0, width: 300, height: 45))
         self.validator = validator
           setupTextField()
           setupValidationLabel()
@@ -34,8 +34,7 @@ class StandardTextField : UITextField {
         layer.borderColor = UIColor.black.cgColor
        
         autocapitalizationType = .none // büyük harfle başlamasını engellemek için
-       // translatesAutoresizingMaskIntoConstraints = false
-    
+        translatesAutoresizingMaskIntoConstraints = false
         
         self.addTarget(self, action: #selector(textFieldDidChange(_:)), for:.editingChanged)
        snp.makeConstraints { make in

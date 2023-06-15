@@ -29,6 +29,10 @@ class CircularButton: UIButton {
         layer.borderWidth = 0
         layer.cornerRadius = 15
         setTitleColor(.white, for: .normal)
+        
+        snp.makeConstraints { make in
+            make.height.equalTo(UIConstant.buttonHeight)
+        }
     }
     
     

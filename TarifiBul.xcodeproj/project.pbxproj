@@ -34,6 +34,8 @@
 		7C9AFBCA2A2DFD5C00A47F1C /* SignInModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9AFBC92A2DFD5C00A47F1C /* SignInModel.swift */; };
 		7C9AFBCC2A2DFE4900A47F1C /* SignInResponseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9AFBCB2A2DFE4900A47F1C /* SignInResponseModel.swift */; };
 		7C9AFBCE2A2E12F400A47F1C /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9AFBCD2A2E12F400A47F1C /* NetworkManager.swift */; };
+		7CAAC2092A3B4457003D3977 /* UIConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CAAC2082A3B4457003D3977 /* UIConstants.swift */; };
+		7CAAC20B2A3B49A9003D3977 /* BoldLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CAAC20A2A3B49A9003D3977 /* BoldLabel.swift */; };
 		7CBC47292A39E1EA00B23992 /* SignUpInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBC47282A39E1EA00B23992 /* SignUpInteractor.swift */; };
 		7CBC472B2A39E2B000B23992 /* SignUpPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBC472A2A39E2B000B23992 /* SignUpPresenter.swift */; };
 		7CBC472D2A39E36100B23992 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CBC472C2A39E36100B23992 /* SignUpViewController.swift */; };
@@ -95,6 +97,8 @@
 		7C9AFBC92A2DFD5C00A47F1C /* SignInModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInModel.swift; sourceTree = "<group>"; };
 		7C9AFBCB2A2DFE4900A47F1C /* SignInResponseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInResponseModel.swift; sourceTree = "<group>"; };
 		7C9AFBCD2A2E12F400A47F1C /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		7CAAC2082A3B4457003D3977 /* UIConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIConstants.swift; sourceTree = "<group>"; };
+		7CAAC20A2A3B49A9003D3977 /* BoldLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoldLabel.swift; sourceTree = "<group>"; };
 		7CBC47282A39E1EA00B23992 /* SignUpInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpInteractor.swift; sourceTree = "<group>"; };
 		7CBC472A2A39E2B000B23992 /* SignUpPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpPresenter.swift; sourceTree = "<group>"; };
 		7CBC472C2A39E36100B23992 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
@@ -166,6 +170,7 @@
 		7C5120B92A28B74E00484B5A /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				7CAAC2072A3B4432003D3977 /* Constant */,
 				7C5120BA2A28B76A00484B5A /* Enum */,
 				7C5120BB2A28B76F00484B5A /* Extension */,
 				7C5120BC2A28B77300484B5A /* Locale */,
@@ -215,6 +220,7 @@
 				7CC18D0C2A331BC50074389D /* Alert */,
 				7CFA17BD2A31CD2000296292 /* TextField */,
 				7C5120D32A28CC9600484B5A /* Button */,
+				7CAAC20A2A3B49A9003D3977 /* BoldLabel.swift */,
 			);
 			path = UIElement;
 			sourceTree = "<group>";
@@ -336,6 +342,14 @@
 				7C9AFBC12A2DF38500A47F1C /* LoginRouter.swift */,
 			);
 			path = Router;
+			sourceTree = "<group>";
+		};
+		7CAAC2072A3B4432003D3977 /* Constant */ = {
+			isa = PBXGroup;
+			children = (
+				7CAAC2082A3B4457003D3977 /* UIConstants.swift */,
+			);
+			path = Constant;
 			sourceTree = "<group>";
 		};
 		7CBC471C2A39DEEC00B23992 /* SignInScreen */ = {
@@ -630,6 +644,7 @@
 				7C9AFBCA2A2DFD5C00A47F1C /* SignInModel.swift in Sources */,
 				7CF87ED72A306F420080DC38 /* ImageName.swift in Sources */,
 				7C9AFBC72A2DF58500A47F1C /* LoginInteractor.swift in Sources */,
+				7CAAC20B2A3B49A9003D3977 /* BoldLabel.swift in Sources */,
 				7C9AFBCE2A2E12F400A47F1C /* NetworkManager.swift in Sources */,
 				7C47FF882A36FD6600632528 /* StandardTextField.swift in Sources */,
 				7C6DB7C22A335EED00B6394E /* SignInInteractor.swift in Sources */,
@@ -638,6 +653,7 @@
 				7C9AFBCC2A2DFE4900A47F1C /* SignInResponseModel.swift in Sources */,
 				7C47FF8A2A3746EF00632528 /* PasswordTextField.swift in Sources */,
 				7C6DB7C62A335F0F00B6394E /* SignInRouter.swift in Sources */,
+				7CAAC2092A3B4457003D3977 /* UIConstants.swift in Sources */,
 				7CF87EDC2A309E910080DC38 /* UIViewExtension.swift in Sources */,
 				7CFA17BA2A31BA2800296292 /* SignInViewController.swift in Sources */,
 				7C6EB3EB2A27800D00246C29 /* TarifiBul.xcdatamodeld in Sources */,
