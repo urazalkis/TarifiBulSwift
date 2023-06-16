@@ -53,14 +53,16 @@ class StandardTextField : UITextField {
          }
     }
     @objc func textFieldDidChange(_ textField:UITextField){
-        if let validationText = validationString(){
-            validationLabel.text = validationString()
-        }
+
+          validateTextField()
         
+    }
+    func validateTextField(){
+        validationLabel.text = validationString()
     }
 }
 extension StandardTextField {
-    func validationString() -> String?{
+    func validationString() -> String{
        if self.validator==true{
            if(text!.isEmpty){
                isValidate = false

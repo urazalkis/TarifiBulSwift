@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C10A8CC2A3C44A7007D4D32 /* SignUpModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C10A8CB2A3C44A7007D4D32 /* SignUpModel.swift */; };
+		7C10A8CE2A3C46C1007D4D32 /* SignUpResponseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C10A8CD2A3C46C1007D4D32 /* SignUpResponseModel.swift */; };
 		7C47FF882A36FD6600632528 /* StandardTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C47FF872A36FD6600632528 /* StandardTextField.swift */; };
 		7C47FF8A2A3746EF00632528 /* PasswordTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C47FF892A3746EF00632528 /* PasswordTextField.swift */; };
 		7C5120BE2A28B77B00484B5A /* ColorName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C5120BD2A28B77B00484B5A /* ColorName.swift */; };
@@ -69,6 +71,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7C10A8CB2A3C44A7007D4D32 /* SignUpModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpModel.swift; sourceTree = "<group>"; };
+		7C10A8CD2A3C46C1007D4D32 /* SignUpResponseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpResponseModel.swift; sourceTree = "<group>"; };
 		7C47FF872A36FD6600632528 /* StandardTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StandardTextField.swift; sourceTree = "<group>"; };
 		7C47FF892A3746EF00632528 /* PasswordTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordTextField.swift; sourceTree = "<group>"; };
 		7C5120BD2A28B77B00484B5A /* ColorName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorName.swift; sourceTree = "<group>"; };
@@ -452,6 +456,8 @@
 		7CBC47272A39E0C800B23992 /* Entity */ = {
 			isa = PBXGroup;
 			children = (
+				7C10A8CB2A3C44A7007D4D32 /* SignUpModel.swift */,
+				7C10A8CD2A3C46C1007D4D32 /* SignUpResponseModel.swift */,
 			);
 			path = Entity;
 			sourceTree = "<group>";
@@ -649,10 +655,12 @@
 				7C47FF882A36FD6600632528 /* StandardTextField.swift in Sources */,
 				7C6DB7C22A335EED00B6394E /* SignInInteractor.swift in Sources */,
 				7CFA17BF2A31CD3900296292 /* UserTextField.swift in Sources */,
+				7C10A8CC2A3C44A7007D4D32 /* SignUpModel.swift in Sources */,
 				7CFA17C12A32115100296292 /* LoadingButton.swift in Sources */,
 				7C9AFBCC2A2DFE4900A47F1C /* SignInResponseModel.swift in Sources */,
 				7C47FF8A2A3746EF00632528 /* PasswordTextField.swift in Sources */,
 				7C6DB7C62A335F0F00B6394E /* SignInRouter.swift in Sources */,
+				7C10A8CE2A3C46C1007D4D32 /* SignUpResponseModel.swift in Sources */,
 				7CAAC2092A3B4457003D3977 /* UIConstants.swift in Sources */,
 				7CF87EDC2A309E910080DC38 /* UIViewExtension.swift in Sources */,
 				7CFA17BA2A31BA2800296292 /* SignInViewController.swift in Sources */,

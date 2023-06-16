@@ -19,6 +19,7 @@ final class SignInInteractor : ISignInInteractor {
         let loginModel = SignInModel(username: userName, password: password)
         NetworkManager.shared.post(path: .login,model: loginModel) { (response:SignInResponseModel) in
             self.presenter?.interactorDidFetchLogin(result: .success(response))
+        
         } onError: { error in
             self.presenter?.interactorDidFetchLogin(result: .failure(error))
          

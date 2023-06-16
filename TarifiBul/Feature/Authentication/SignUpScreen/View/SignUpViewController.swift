@@ -9,9 +9,14 @@ import UIKit
 
 protocol SignUpViewProtocol {
     var presenter : SignUpPresenterProtocol? {get set}
+    func showRegisterResultAlert(with signUpResponse : SignUpResponseModel?)
+    func showRegisterResultAlert(with error : String)
+    func changeButtonLoadingState()
 }
 
 class SignUpViewController: UIViewController,SignUpViewProtocol {
+
+    
     var presenter: SignUpPresenterProtocol?
     
     let stackView = UIStackView()
@@ -54,9 +59,15 @@ class SignUpViewController: UIViewController,SignUpViewProtocol {
     }
     
     @objc func registerButtonTapped() {
-        changeButtonLoadingState()
-        if(userTextField.isValidate){
-            //  presenter?.fetchLogin(userName: userTextField.text!, password: passwordTextField.text!)
+       
+        if(userTextField.isValidate && emailTextField.isValidate && passwordTextField.isValidate){
+            changeButtonLoadingState()
+            presenter?.fetchRegister(userName: userTextField.text!,email:emailTextField.text!,password: passwordTextField.text!)
+        }
+        else {
+            userTextField.validateTextField()
+            emailTextField.validateTextField()
+            passwordTextField.validateTextField()
         }
     }
     func changeButtonLoadingState(){
@@ -64,6 +75,22 @@ class SignUpViewController: UIViewController,SignUpViewProtocol {
             registerButton.changeLoadingState()
         }
     }
+   func showRegisterResultAlert(with signUpResponse: SignUpResponseModel?) {
+       if(signUpResponse?.success==true){
+           let alert = SuccessAlert(title: nil, message: signUpResponse?.token, preferredStyle: .alert)
+           present(alert,animated: true,completion: nil)
+       }
+       else {
+           let alert = ErrorAlert(title: nil, message: signUpResponse?.message, preferredStyle: .alert)
+           present(alert,animated: true,completion: nil)
+       }
+       
+   }
+   func showRegisterResultAlert(with error: String) {
+       let alert = ErrorAlert(title: nil, message: error, preferredStyle: .alert)
+       present(alert,animated: true,completion: nil)
+      
+   }
 }
 extension SignUpViewController {
     

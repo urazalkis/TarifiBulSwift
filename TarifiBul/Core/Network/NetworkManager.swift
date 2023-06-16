@@ -8,6 +8,7 @@ import Foundation
 enum NetworkPath: String {
     static let baseUrl: String = "https://tarifiyle-bul.onrender.com/api/"
     case login = "users/login"
+    case register = "users/register"
 
 }
 enum NetworkError: Error {
