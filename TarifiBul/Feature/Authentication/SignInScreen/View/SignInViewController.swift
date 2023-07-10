@@ -37,8 +37,8 @@ class SignInViewController: UIViewController,ISignInView {
         return label
     }()
     private let passwordTextField = PasswordTextField(validator: true)
-    private let forgotPasswordButton : UIButton = {
-        let button = UIButton()
+    private let forgotPasswordButton : LanguageButton = {
+        let button = LanguageButton()
         button.setTitle(LocaleKeys.forgotPassword.locale, for: .normal)
         button.setTitleColor(.black, for: .normal)
         return button
@@ -59,8 +59,9 @@ class SignInViewController: UIViewController,ISignInView {
        configure()
     }
     @objc func loginButtonTapped() {
-        changeButtonLoadingState()
-        if(userTextField.isValidate){
+      
+        if(userTextField.isValidate && passwordTextField.isValidate){
+            changeButtonLoadingState()
             presenter?.fetchLogin(userName: userTextField.text!, password: passwordTextField.text!)
         }
     }
@@ -68,7 +69,6 @@ class SignInViewController: UIViewController,ISignInView {
         if(userTextField.isValidate){
         loginButton.changeLoadingState()
         }
-        print(loginButton.isLoading)
     }
     func showLoginResultAlert(with signInResponse: SignInResponseModel?) {
         if(signInResponse?.success==true){

@@ -5,6 +5,7 @@
   Created by Uraz Alkış on 1.06.2023.
   
 */
+"language" = "Language";
 "recipeIngredients" = "Recipes for your have home ingredients";
 "later" = "Later";
 "login" = "Login";

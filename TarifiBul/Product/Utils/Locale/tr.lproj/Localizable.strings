@@ -6,7 +6,7 @@
   Created by Uraz Alkış on 1.06.2023.
   
 */
-
+"language" = "Dil";
 "recipeIngredients" = "Ev malzemeleriniz için tarifler";
 "later" = "Daha Sonra";
 "login" = "Giriş Yap";

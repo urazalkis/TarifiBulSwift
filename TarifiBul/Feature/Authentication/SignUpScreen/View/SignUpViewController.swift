@@ -140,6 +140,7 @@ extension SignUpViewController {
             make.width.equalTo(stackView)
             make.height.equalTo(UIConstant.textFieldHeight)
         }
+
      }
     func setupPasswordTextField() {
         passwordTextField.snp.removeConstraints()

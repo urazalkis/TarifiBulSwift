@@ -7,6 +7,68 @@
 
 import UIKit
 
+
+
+
+class LanguageButton: UIButton {
+    
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+        setupButton()
+    }
+    
+    required init?(coder aDecoder: NSCoder) {
+        super.init(coder: aDecoder)
+        setupButton()
+    }
+    
+    private func setupButton() {
+        setTitle("\(LocaleKeys.language.locale):\(LanguageManager.shared.currentLanguage())", for: .normal)
+        setTitleColor(.blue, for: .normal)
+        addTarget(self, action: #selector(showLanguageAlert), for: .touchUpInside)
+    }
+    private func updateButtonText() {
+            let currentLanguage = LanguageManager.shared.currentLanguage()
+            setTitle("Language: \(currentLanguage)", for: .normal)
+        }
+    @objc private func showLanguageAlert() {
+        print(LanguageManager.shared.currentLanguage())
+        if LanguageManager.shared.currentLanguage() == AppLanguage.turkish.rawValue {
+            LanguageManager.shared.setLanguage(lang: .english)
+         
+        }
+        else if LanguageManager.shared.currentLanguage() == AppLanguage.english.rawValue {
+            LanguageManager.shared.setLanguage(lang: .turkish)
+           
+        }
+        
+        updateButtonText()
+       /* guard let rootViewControlller = UIApplication.shared.keyWindow?.rootViewController else {
+            return
+        }
+        
+        var topViewController = rootViewControlller
+        while let presentedViewController = topViewController.presentedViewController {
+            topViewController = presentedViewController
+        }
+        
+        let alertController = UIAlertController(title: "Select Language", message: nil, preferredStyle: .alert)
+        
+        let englishAction = UIAlertAction(title: "English", style: .default) { (_) in
+            LanguageManager.shared.saveLanguage(.english)
+        }
+        
+        let turkishAction = UIAlertAction(title: "Turkish", style: .default) { (_) in
+            LanguageManager.shared.saveLanguage(.turkish)
+        }
+        
+        alertController.addAction(englishAction)
+        alertController.addAction(turkishAction)
+        
+        topViewController.present(alertController, animated: true, completion: nil)*/
+    }
+    
+}
 /*class LanguageButton: UIButton {
     private var pickerView: UIPickerView!
     override init(frame: CGRect) {

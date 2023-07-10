@@ -36,6 +36,12 @@ class LoginViewController: UIViewController,ILoginView{
         button.addTarget(self, action: #selector(newAccountButtonTapped), for: .touchUpInside)
         return button
     }()
+    private lazy var languageButton : LanguageButton = {
+        let button = LanguageButton()
+        button.setTitleColor(UIColor(named: ColorName.oriolesOrange.rawValue), for: .normal)
+       
+        return button
+    }()
     private lazy var laterButton : UIButton = {
         let button = UIButton()
         button.setTitle(LocaleKeys.later.locale, for: .normal)
@@ -43,6 +49,7 @@ class LoginViewController: UIViewController,ILoginView{
         button.addTarget(self, action: #selector(newAccountButtonTapped), for: .touchUpInside)
         return button
     }()
+
     @objc func loginButtonTapped() {
 
         presenter?.router?.navigateToSignIn()
@@ -55,7 +62,6 @@ class LoginViewController: UIViewController,ILoginView{
     override func viewDidLoad() {
         super.viewDidLoad()
        configure()
-        
     }
   
 }
@@ -72,6 +78,7 @@ extension LoginViewController{
         view.addSubview(recipeTextLabel)
         view.addSubview(loginButton)
         view.addSubview(createNewAccountButton)
+        view.addSubview(languageButton)
         view.addSubview(laterButton)
     }
     func setupAll () {
@@ -80,10 +87,10 @@ extension LoginViewController{
         setupRecipeTextLabel()
         setupLoginButton()
         setupCreateAccountButton()
+        setupLanguageButton()
         setupLaterButton()
     }
     func setupSafeAreaView(){
-        //safeAreaView.backgroundColor = .green
         safeAreaView.snp.makeConstraints { make in
         //make.edges.equalTo(view.safeAreaLayoutGuide)
             safeAreaView.paddingPage()
@@ -111,6 +118,8 @@ extension LoginViewController{
         recipeTextLabel.snp.makeConstraints { make in
             make.centerX.equalTo(safeAreaView)
             make.top.equalTo(groupImage.snp.bottom).offset(50)
+            make.leading.equalTo(safeAreaView)
+            make.trailing.equalTo(safeAreaView)
 
         }
     }
@@ -129,6 +138,14 @@ extension LoginViewController{
             
         }
     }
+    func setupLanguageButton() {
+        languageButton.snp.makeConstraints { make in
+            
+            make.top.equalTo(safeAreaView)
+            make.leading.equalTo(safeAreaView)
+            
+        }
+    }
     func setupLaterButton() {
         laterButton.snp.makeConstraints { make in
             
@@ -137,6 +154,7 @@ extension LoginViewController{
             
         }
     }
+    
     func setupBackgroundColor(){
         
         let gradientView = UIView(frame: CGRect(x: 0, y: 0, width: view.bounds.width, height: view.bounds.height))

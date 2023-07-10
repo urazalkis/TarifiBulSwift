@@ -9,6 +9,7 @@ import Foundation
 import UIKit
 
 struct LocaleKeys {
+    static let language = "language"
     static let recipeIngredients = "recipeIngredients"
     static let later = "later"
     static let login = "login"
@@ -32,9 +33,3 @@ struct LocaleKeys {
     static let dontEmptyThisField = "dontEmptyThisField"
 }
 
-
-extension String {
-    var locale:String {
-        return NSLocalizedString(self, comment: "")
-    }
-}

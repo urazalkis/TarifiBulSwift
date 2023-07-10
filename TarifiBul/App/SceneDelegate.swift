@@ -27,7 +27,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         let routerInstance = LoginRouter.startExecution()
         let rootVC = routerInstance.entry
         let window = UIWindow(windowScene: windowScene)
-        window.rootViewController = UINavigationController(rootViewController:rootVC!)
+        window.rootViewController = UINavigationController(rootViewController:MaterialSearchViewController())
         self.window = window
         window.makeKeyAndVisible()
     }
